@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    background-color: #c4c4c4;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  /* STYLE Do HEADER.PHP & NAV */
+  .navbar-mine {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color: #1e1e1e;
+    border: 0.5px solid #363636;
+    height: 70px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+    justify-content: space-between;
+    color: #c4c4c4;
+  }
+  .logo-container-mine {
+    display: flex;
+    align-items: center;
+  }
+  .logo-mine {
+    width: 50px;
+    height: 50px;
+    margin: 0 5px;
+  }
+  .titulo-mine {
+    font-size: 50px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-shadow: 1px 1px rgba(196, 196, 196, 0.3);
+  }
+  .nav-navbar-mine {
+    display: flex;
+  }
+  .ul-mine {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  .li-mine {
+    margin: 0 10px;
+  }
+  .a-mine {
+    color: #c4c4c4;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0px;
+    margin-bottom: 3px;
+  }
+  .a-mine:hover {
+    opacity: 0.4;
+    text-decoration: none;
+    color: #c4c4c4;
+  }
+  .imgnav-mine {
+    filter: invert(80%);
+    width: 30px;
+    height: 30px;
+  }
+  .titulo-nav-mine {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    margin-left: 4px;
+    margin-top: 12px;
+  }
+  
+  /* STYLE Do FOOTER.PHP & FOOTER */
+  .coluna-esquerda-mine {
+    margin: 0;
+    width: 15%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .coluna-direita-mine {
+    color: #c4c4c4;
+    margin: 0;
+    width: 85%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    /* background-color: blueviolet; */
+  }
+  
+  .minhaLogo-mine {
+    margin-left: 0;
+    width: 200px;
+    height: 120px;
+  }
+  .footer-mine {
+    overflow: hidden;
+    /* position: absolute; */
+    display: flex;
+    flex-direction: row;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 235px;
+    background-color: #1e1e1e;
+    border: 0.5px solid #363636;
+    box-shadow: 0 -2px 2px rgba(0, 0, 0, 0.3);
+    justify-content: center;
+  }
+  
+  .text-mine {
+    font-size: 40px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+  .redes-sociais-mine {
+    display: flex;
+    width: 100%;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 2px solid #c4c4c4;
+  }
+  .img-footer-mine {
+    filter: invert(80%);
+    width: 20px;
+    height: 20px;
+  }
+  .rede-mine {
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+  }
+  .rede-mine .text-mine {
+    margin-left: 3px;
+    font-size: 20px;
+    letter-spacing: 1px;
+  }
+  .infos-mine {
+    display: flex;
+    margin-top: 10px;
+    width: 100%;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  .text-footer-mine {
+    font-size: 20px;
+    text-align: center;
+  }
+  .text-footerMenor-mine {
+    font-size: 15px;
+    margin: 0 10px;
+  }
+  
+  .ul-footer-mine {
+    flex-direction: column;
+    align-items: center;
+    position: sticky;
+    top: 0;
+  }
+  .paginas-mine {
+    display: inline-block;
+    flex-direction: column;
+    margin-right: 20px;
+    margin-top: 60px;
+    width: 33%;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+  }
