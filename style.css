@@ -1,0 +1,29 @@
+.img-carousel-mine {
+  width: 80px;
+}
+
+.centralizer {
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
+
+.carousel-item img {
+  display: block;
+  margin: 0 auto;
+  object-fit: contain;
+  height: 80px; /* Defina o tamanho desejado em pixels */
+  width: 80px; /* Defina o tamanho desejado em pixels */
+}
+
+.carousel-item h3 {
+  margin-top: 10px;
+}
