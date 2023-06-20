@@ -23,7 +23,7 @@
          $table_exists = pg_fetch_result($result, 0);
          if(!$table_exists) {
              
-             $query = file_get_contents('./bd/database.sql');
+             $query = file_get_contents('createTables.sql');
              $result = pg_query($pdo, $query);
              if (!$result) {
                  $error = pg_last_error($pdo);

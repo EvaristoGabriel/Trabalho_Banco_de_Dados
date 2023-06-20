@@ -8,7 +8,7 @@ include 'header.php';
 $query = "SELECT nome, url FROM treinador;";
 $resultadoTreinador = pg_query($pdo, $query);
 if (!$resultadoTreinador) {
-    echo "Não foi possível executar a query";
+    echo "Não foi possível executar a query treinador";
     exit;
 }
 
@@ -16,22 +16,22 @@ $query = "SELECT nome, url,numero_pokedex FROM pokemon ORDER BY numero_pokedex;"
 $resultado = pg_query($pdo, $query);
 
 if (!$resultado) {
-    echo "Não foi possível executar a query";
+    echo "Não foi possível executar a query pokemon";
     exit;
 }
 
-$query = "SELECT u.nome AS utilitario_nome, u.url AS utilitario_url,
-s.nome AS seguravel_nome, s.url AS seguravel_url,
-me.nome AS medicinal_nome, me.url AS medicinal_url
+$query = "SELECT u.nome AS nome, u.url AS url,
+-- s.nome AS nome, s.url AS url,
+-- me.nome AS nome, me.url AS url
 FROM mochila m
-LEFT JOIN utilitario u ON u.id_mochila = m.id
-LEFT JOIN seguravel s ON s.id_mochila = m.id
-LEFT JOIN medicinal me ON me.id_mochila = m.id;
+RIGHT JOIN utilitario u ON u.id_mochila = m.id
+RIGHT JOIN seguravel s ON s.id_mochila = m.id
+RIGHT JOIN medicinal me ON me.id_mochila = m.id;
 ";
 $resultadoitens = pg_query($pdo, $query);
 
 if (!$resultado) {
-    echo "Não foi possível executar a query";
+    echo "Não foi possível executar a query itens";
     exit;
 }
 
@@ -117,7 +117,6 @@ if (!$resultado) {
     </div>
 
     <h3>Itens</h3>
-
     <div id="myCarousel3" class="carousel slide" data-ride="carousel">
         <ul class="carousel-indicators">
             <?php for ($i = 0; $i < ceil(pg_num_rows($resultadoitens) / 3); $i++) : ?>
@@ -127,14 +126,16 @@ if (!$resultado) {
 
         <div class="carousel-inner">
             <?php $contador = 0; ?>
-            <?php while ($row1 = pg_fetch_array($resultadoitens, null, PGSQL_ASSOC)) :?>
+            <?php
+            echo(pg_num_rows($resultadoitens));
+            while ($row1 = pg_fetch_array($resultadoitens, null, PGSQL_ASSOC)) :?>
                 <?php if ($contador % 3 === 0) : ?>
                     <div class="carousel-item <?= $contador === 0 ? 'active' : '' ?>">
                         <div class="row">
                         <?php endif; ?>
 
                         <div class="col-md-4 centralizer">
-                            <img class="img-carousel-mine" src="<?= $row1['url'] ?>">
+                            <img class="img-carousel-mine" src="<?=$row1['url']?>" alt="<?=$row1['nome']?>">
                             <h3><?= $row1['nome'] ?></h3>
                         </div>
 
