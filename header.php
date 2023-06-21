@@ -31,6 +31,9 @@
                 <li class="li-mine"><a class="a-mine" href="./pokemon.php"><img class="imgnav-mine" src="./image/pokemon_121114.ico">
                         <h3 class="titulo-nav-mine">Pokémons</h3>
                     </a></li>
+                <li class="li-mine"><a class="a-mine" href="./itens.php"><img class="imgnav-mine" src="./image/Backpack_43701.ico">
+                        <h3 class="titulo-nav-mine">Itens</h3>
+                    </a></li>
             </ul>
         </nav>
     </div>

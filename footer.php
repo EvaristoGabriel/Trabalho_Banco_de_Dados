@@ -22,6 +22,10 @@
             <div class="paginas-mine">
                 <h3 class="text-mine text-footer-mine">inicio</h3>
                 <ul class="ul-mine ul-footer-mine">
+                    <li class="text-mine text-footerMenor-mine"><a class="a-mine" href="./home.php">Home</a></li>
+                    <li class="text-mine text-footerMenor-mine"><a class="a-mine" href="./pokemon.php">Pokemons</a></li>
+                    <li class="text-mine text-footerMenor-mine"><a class="a-mine" href="./treinador.php">Treinadores</a></li>
+                    <li class="text-mine text-footerMenor-mine"><a class="a-mine" href="./itens.php">Itens</a></li>
                 </ul>
             </div>
             <div class="paginas-mine">
