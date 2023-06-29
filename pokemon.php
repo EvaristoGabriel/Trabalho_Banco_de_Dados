@@ -5,7 +5,7 @@ include 'header.php';
 ?>
 
 <?php
-$query = "select nome, url,numero_pokedex from pokemon order by numero_pokedex asc;";
+$query = "select id, nome, url, numero_pokedex from pokemon order by numero_pokedex asc;";
 $resultado = pg_query($pdo, $query);
 
 if (!$resultado) {
@@ -18,11 +18,13 @@ if (!$resultado) {
     <div class="pokemons">
         <?php
         while ($row = pg_fetch_array($resultado, null, PGSQL_ASSOC)) : ?>
+        <a href="pokemon_esp.php?id=<?php echo $row['id']; ?>" class="a-poke">
             <div class="item-pokemon">
-                <img class="img-poke" src="<?= $row['url'] ?>">
-                <p><?= $row['nome'] ?></p>
-                <p><?= $row['numero_pokedex'] ?></p>
+                <img class="img-poke imagem" src="<?= $row['url'] ?>">
+                <p class="text"><?= $row['nome'] ?></p>
+                <p class="text">#<?= $row['numero_pokedex'] ?></p>
             </div>
+        </a>
         <?php endwhile; ?>
     </div>
 </body>
