@@ -113,16 +113,23 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
 
         <p class="title-infos">Ataques</p>
 
-        <div class="pokemons-treinador">
+        <div class="ataque-pokemon">
             <?php
-            $queryPok = "SELECT ";
+            $queryPok = "SELECT a.nome as nome, a.pp as pp from ataque a inner join pokemon_ataque pa on 
+                        pa.id_ataque = a.id inner join pokemon p on p.id = pa.id_pokemon
+                        where p.id = $1";
             $resultado = pg_query_params($pdo, $queryPok, array($id));
             if (!$resultado) {
                 echo "Não foi possível executar a consulta";
                 exit;
             }
             while ($row = pg_fetch_array($resultado, null, PGSQL_ASSOC)) :
+                $quantidade = rand(0,$row['pp'])
             ?>
+                <div class="atk">
+                    <p><?= $row['nome'] ?></p>
+                    <p><?=$quantidade?>/<?= $row['pp'] ?></p>
+                </div>
             <?php endwhile; ?>
         </div>
     </div>
