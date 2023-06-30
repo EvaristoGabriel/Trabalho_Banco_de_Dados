@@ -169,3 +169,71 @@ tr:hover {
   margin-top: 15px;
   margin-bottom: 0;
 }
+.tipos{
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.Tipo{
+  width: 10%;
+  text-align: center;
+  margin: 10px 10px;
+  border-radius: 30px;
+}
+.Grass{
+  background-color: rgba(22, 185, 0,0.7);
+}
+.Bug{
+  background-color: rgba(11, 92, 0, 0.7);
+}
+.Water{
+  background-color: rgba(31, 54, 253, 0.7);
+}
+.Poison{
+  background-color: rgba(177, 2, 177,0.7);
+}
+.Fairy{
+  background-color: rgba(255, 130, 224, 0.8);
+}
+.Psychic{
+  background-color: rgba(255, 86, 213, 0.8);
+}
+.Fire{
+  background-color: rgba(228, 137, 0, 0.8);
+}
+.Fighting{
+  background-color: rgba(194, 116, 0, 0.8);
+}
+.Rock{
+  background-color: rgba(151, 123, 0, 0.8);
+}
+.Normal{
+  background-color: rgba(92, 92, 92, 0.7);
+}
+.Dark{
+  background-color: rgba(51, 45, 45, 0.7);
+}
+.Electric{
+  background-color: rgba(255, 230, 0, 0.7);
+}
+.Ice{
+  background-color: rgba(0, 238, 255, 0.7);
+}
+.Steel{
+  background-color: rgba(79, 96, 97, 0.7);
+}
+.Ghost{
+  background-color: rgba(116, 0, 161, 0.7);
+}
+.Flying{
+  background: linear-gradient(180deg,#00e1ff 30%, #6e6e6e 70%);
+}
+.Dragon{
+  background: linear-gradient(180deg,#007483 30%, #ff6969 70%);
+}
+.Ground{
+  background: linear-gradient(180deg,#ffd000 30%, #4b4600 70%);
+}

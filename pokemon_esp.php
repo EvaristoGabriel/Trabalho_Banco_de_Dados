@@ -27,6 +27,24 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
     <p class="title-nome"><?= $resultado['nome'] ?></p>
     <p class="title-nome">#<?= $resultado['numero_pokedex'] ?></p>
     <img class="imagem-poke-esp" src="<?= $resultado['url'] ?>" alt="<?= $resultado['nome'] ?>">
+
+    <div class="tipos">
+        <?php
+        $id = $_GET['id'];
+        $query = "select * from pokemon_tipo where id_pokemon =$id;";
+        $resultadoType = pg_query($pdo, $query);
+
+        if (!$resultadoType) {
+            echo "Não foi possível executar a query Tipo";
+            exit;
+        }
+        while ($row = pg_fetch_array($resultadoType, null, PGSQL_ASSOC)) :
+        ?>
+            <p class="Tipo <?= $row['id_tipo'] ?>"><?= $row['id_tipo'] ?></p>
+        <?php endwhile; ?>
+    </div>
+
+
     <div class="infos">
         <p class="text-infos">Nível: <?= $resultado['nivel'] ?></p>
 
@@ -64,14 +82,34 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
         <div class="progress">
             <div class="progress-bar bg-info progress-bar-striped" role="progressbar" style="width: <?= ($resultado['experiencia'] / 1125) * 100 ?>%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="1125"></div>
         </div>
+        <?php
+        $aux = $resultado['id_habilidade'];
+        $query = "select * from habilidade where id =$aux;";
+        $resultadoHab = pg_query($pdo, $query);
 
+        if (!$resultadoHab) {
+            echo "Não foi possível executar a query pokemon";
+            exit;
+        }
+        $resultadoHab = pg_fetch_array($resultadoHab, null, PGSQL_ASSOC);
+
+        $aux = $resultado['id_nature'];
+        $query = "select * from nature where id =$aux;";
+        $resultadoNat = pg_query($pdo, $query);
+
+        if (!$resultadoNat) {
+            echo "Não foi possível executar a query pokemon";
+            exit;
+        }
+        $resultadoNat = pg_fetch_array($resultadoNat, null, PGSQL_ASSOC);
+        ?>
         <p class="text-infos">Status: <?= $resultado['status'] ?></p>
 
-        <p class="text-infos">Habilidade: <?= $resultado['id_habilidade'] ?></p>
+        <p class="text-infos">Habilidade: <?= $resultadoHab['nome'] ?></p>
 
         <p class="text-infos">Equipe: <?= $resultado['id_equipe'] ?></p>
 
-        <p class="text-infos">Natureza: <?= $resultado['id_nature'] ?></p>
+        <p class="text-infos">Natureza: <?= ucfirst($resultadoNat['nome']) ?></p>
 
     </div>
 </body>
