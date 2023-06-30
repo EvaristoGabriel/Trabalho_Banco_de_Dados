@@ -111,6 +111,20 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
 
         <p class="text-infos">Natureza: <?= ucfirst($resultadoNat['nome']) ?></p>
 
+        <p class="title-infos">Ataques</p>
+
+        <div class="pokemons-treinador">
+            <?php
+            $queryPok = "SELECT ";
+            $resultado = pg_query_params($pdo, $queryPok, array($id));
+            if (!$resultado) {
+                echo "Não foi possível executar a consulta";
+                exit;
+            }
+            while ($row = pg_fetch_array($resultado, null, PGSQL_ASSOC)) :
+            ?>
+            <?php endwhile; ?>
+        </div>
     </div>
 </body>
 <?php

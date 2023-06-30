@@ -169,6 +169,14 @@ tr:hover {
   margin-top: 15px;
   margin-bottom: 0;
 }
+.title-infos{
+  margin: 10px auto;
+  text-transform: uppercase;
+  font-family: Tahoma;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
 .tipos{
   display: flex;
   /* flex-direction: row; */
@@ -236,4 +244,22 @@ tr:hover {
 }
 .Ground{
   background: linear-gradient(180deg,#ffd000 30%, #4b4600 70%);
+}
+
+.treinador{
+  font-size: 30px;
+}
+
+.poke-treinador{
+  width: 150px;
+}
+.poke-treinador:hover{
+  transform: scale(1.3);
+  transition: all 0.5s;
+}
+
+.pokemons-treinador{
+  margin: 10px 20%;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
 }

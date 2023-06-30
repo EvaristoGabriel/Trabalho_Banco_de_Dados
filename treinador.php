@@ -5,7 +5,7 @@ include 'header.php';
 ?>
 
 <?php
-$query = "select nome, url from treinador;";
+$query = "select id,nome, url from treinador;";
 $resultado = pg_query($pdo, $query);
 
 if (!$resultado) {
@@ -18,7 +18,7 @@ if (!$resultado) {
     <div class="pokemons">
         <?php
         while ($row = pg_fetch_array($resultado, null, PGSQL_ASSOC)) : ?>
-        <a href="" class="a-poke">
+        <a href="treinador_esp.php?id=<?php echo $row['id']; ?>" class="a-poke">
             <div class="item-pokemon">
                 <img class="img-poke imagem" src="<?= $row['url'] ?>">
                 <p class="text"><?= $row['nome'] ?></p>
