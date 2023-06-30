@@ -17,6 +17,13 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
 ?>
 
 <body>
+    <div class="back">
+        <a class="a-back" href="pokemon.php">
+            <img class="img-back" src="./image/back_arrow.ico" alt="">
+            <p class="text-voltar">voltar</p>
+        </a>
+    </div>
+
     <p class="title-nome"><?= $resultado['nome'] ?></p>
     <p class="title-nome">#<?= $resultado['numero_pokedex'] ?></p>
     <img class="imagem-poke-esp" src="<?= $resultado['url'] ?>" alt="<?= $resultado['nome'] ?>">
@@ -52,18 +59,18 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
         <div class="progress">
             <div class="progress-bar bg-info" role="progressbar" style="width: <?= ($resultado['speed'] / 700) * 100 ?>%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="700"></div>
         </div>
-        
+
         <p class="text-infos">Experiencia: <?= $resultado['experiencia'] ?></p>
         <div class="progress">
             <div class="progress-bar bg-info progress-bar-striped" role="progressbar" style="width: <?= ($resultado['experiencia'] / 1125) * 100 ?>%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="1125"></div>
         </div>
-        
+
         <p class="text-infos">Status: <?= $resultado['status'] ?></p>
-        
+
         <p class="text-infos">Habilidade: <?= $resultado['id_habilidade'] ?></p>
-        
+
         <p class="text-infos">Equipe: <?= $resultado['id_equipe'] ?></p>
-        
+
         <p class="text-infos">Natureza: <?= $resultado['id_nature'] ?></p>
 
     </div>

@@ -23,6 +23,7 @@ if (!$resultado) {
                 <img class="img-poke imagem" src="<?= $row['url'] ?>">
                 <p class="text"><?= $row['nome'] ?></p>
                 <p class="text">#<?= $row['numero_pokedex'] ?></p>
+                <p class="text"><?= $row['id'] ?></p>
             </div>
         </a>
         <?php endwhile; ?>

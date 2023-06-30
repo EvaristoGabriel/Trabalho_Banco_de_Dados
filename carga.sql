@@ -7751,3 +7751,4 @@ INSERT INTO pokedex (numero_pokemon,nome_pokemon) VALUES (1007,'Koraidon');
 INSERT INTO pokedex (numero_pokemon,nome_pokemon) VALUES (1008,'Miraidon');
 INSERT INTO pokedex (numero_pokemon,nome_pokemon) VALUES (1009,'Walking Wake');
 INSERT INTO pokedex (numero_pokemon,nome_pokemon) VALUES (1010,'Iron Leaves');
+INSERT INTO pokemon_tipo (id_Pokemon, id_Tipo) VALUES (1,'Grass'), (1, 'Poison');
