@@ -5,7 +5,12 @@ include 'header.php';
 ?>
 
 <?php
-$query = "select id, nome, url, numero_pokedex from pokemon order by numero_pokedex asc;";
+$query = "SELECT min(pm.id) AS id, pm.nome, pm.numero_pokedex, pm.url
+FROM pokedex px
+INNER JOIN pokemon pm ON pm.numero_pokedex = px.id
+GROUP BY pm.nome, pm.numero_pokedex, pm.url
+ORDER BY pm.numero_pokedex ASC;
+";
 $resultado = pg_query($pdo, $query);
 
 if (!$resultado) {

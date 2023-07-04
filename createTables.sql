@@ -134,16 +134,15 @@ CREATE TABLE pokemon(
     id_Habilidade INTEGER NOT NULL REFERENCES habilidade(id),
     id_Equipe INTEGER NOT NULL REFERENCES equipe(id),
     id_Nature INTEGER NOT NULL REFERENCES nature(id),
-    UNIQUE (Numero_Pokedex, Nome)
+    UNIQUE(id)
 );
 
 
 CREATE TABLE pokedex(
-    Numero_Pokemon INTEGER NOT NULL,
-    Nome_Pokemon VARCHAR(50) NOT NULL,
-    PRIMARY KEY(Numero_Pokemon,Nome_Pokemon),
-    FOREIGN KEY (Numero_Pokemon, Nome_Pokemon) REFERENCES pokemon(Numero_Pokedex, Nome)
+    id SERIAL PRIMARY KEY,
+    id_pokemon INTEGER REFERENCES pokemon(id)
 );
+
 
 CREATE TABLE treinador_insignia(
     id_Treinador INTEGER NOT NULL REFERENCES treinador(id),
@@ -159,3 +158,40 @@ CREATE TABLE pokemon_ataque(
     id_Pokemon INTEGER NOT NULL REFERENCES pokemon(id),
     id_Ataque INTEGER NOT NULL REFERENCES ataque(id)
 );
+
+ALTER TABLE pokemon ADD FOREIGN KEY(numero_pokedex) REFERENCES pokedex(id) ON DELETE CASCADE ON UPDATE CASCADE;
+
+CREATE OR REPLACE FUNCTION novotreinadorpocao() returns trigger as $$
+BEGIN
+    INSERT INTO mochila DEFAULT VALUES;
+    INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade)
+    VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Potion',new.id_mochila,'Recupera 20 HP',1);
+    return new;
+END;
+$$ language plpgsql;
+
+CREATE OR REPLACE TRIGGER treinadorpocao 
+AFTER INSERT ON treinador
+FOR EACH ROW
+EXECUTE FUNCTION novotreinadorpocao();
+
+
+CREATE OR REPLACE FUNCTION novotreinadorpokemon() RETURNS TRIGGER AS $$
+DECLARE
+    equipe_id INT;
+BEGIN
+    INSERT INTO equipe (id_Treinador) VALUES (NEW.id) RETURNING id INTO equipe_id;
+    INSERT INTO pokemon (url, nome, apelido, numero_pokedex, ataque_fisico, ataque_special, defesa_fisico, defesa_special, speed, nivel, hp, experiencia, status, id_Habilidade, id_Equipe, id_Nature)
+                 VALUES ('https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif', 'Charmander', 'Charmander', 0004, 12, 9, 10, 8, 12, 1, 20, 0, 'None', 5, equipe_id, 1);
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+
+CREATE OR REPLACE TRIGGER treinadorpokemon 
+AFTER INSERT ON treinador
+FOR EACH ROW
+EXECUTE FUNCTION novotreinadorpokemon();
+
+
+

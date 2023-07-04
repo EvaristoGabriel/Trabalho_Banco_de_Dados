@@ -42,9 +42,25 @@ $resultado = pg_fetch_array($resultado, null, PGSQL_ASSOC);
             }
             while ($row = pg_fetch_array($resultado, null, PGSQL_ASSOC)) :
             ?>
-            <a href="pokemon_esp.php?id=<?php echo $row['id']; ?>">
-                <img class="poke-treinador" src="<?= $row['url'] ?>" alt="">
-            </a>
+                <a href="pokemon_esp.php?id=<?php echo $row['id']; ?>">
+                    <img class="poke-treinador" src="<?= $row['url'] ?>" alt="">
+                </a>
+            <?php endwhile; ?>
+        </div>
+
+        <div class="pokemons-treinador">
+            <?php
+            $queryPok = "SELECT u.* FROM utilitario u INNER JOIN treinador t ON t.id_mochila = u.id_mochila WHERE t.id =$1;";
+            $resultado = pg_query_params($pdo, $queryPok, array($id));
+            if (!$resultado) {
+                echo "Não foi possível executar a consulta";
+                exit;
+            }
+            while ($row = pg_fetch_array($resultado, null, PGSQL_ASSOC)) :
+            ?>
+                <img src="<?= $row['url'] ?>">
+                <p><?= $row['nome'] ?></p>
+                <p><?= $row['quantidade'] ?></p>
             <?php endwhile; ?>
         </div>
     </div>
