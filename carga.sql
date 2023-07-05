@@ -166,746 +166,6 @@ INSERT INTO insignia (nome) VALUES ('Insígnia Normal');
 INSERT INTO insignia (nome) VALUES ('Insígnia Ghost');
 INSERT INTO insignia (nome) VALUES ('Insígnia Psychics');
 INSERT INTO insignia (nome) VALUES ('Insígnia Ice');
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO mochila DEFAULT VALUES;
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/max-repel.png','Repel',19,'Previne que pokémons selvagens apareçam por 100 passos',1);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/super-potion.png','Super Repel',100,'Previne que pokémons selvagens apareçam por 200 passos',86);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Repel',36,'Previne que pokémons selvagens apareçam por 250 passos',79);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/escape-rope.png','Escape Rope',248,'Faz você escapar de uma caverna',59);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/smoke-ball.png','Smoke Ball',77,'Escapa de pokémons selvagens sem falhar',25);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/fluffy-tail.png','Fluffy Tail',70,'Brinquedo para distrair um pokémon selvagem e garantir que você escape da batalha (rabo de Skitty)',20);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/blue.png','Blue Flute',62,'Acorda um pokémon que esteja dormindo',42);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sacred-ash.png','Red Flute',100,'Rompe a condição de estado apaixonado (Attract)',99);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/yellow-nectar.png','Yellow Flute',213,'Cura um pokémon que esteja confuso',14);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Flute',83,'Reduz as chances de encontrar pokémons selvagens (ou aumenta o nível dos pokémons selvagens)',85);
-INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/white.png','White Flute',78,'Aumenta as chances de encontrar pokémons selvagens (ou reduz o nível dos pokémons selvagens)',50);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Potion',174,'Recupera 20 HP',96);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/super-potion.png','Super Potion',301,'Recupera 60 HP',5);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Hyper Potion',179,'Recupera 120 HP',29);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Potion',125,'Recupera todo o HP',79);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/full-heal.png','Full Restore',176,'Recupera todo o HP e retira todas as condições de estado',29);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/burn-heal.png','Burn Heal',92,'Remove a condição "queimado" de seu pokémon (status burn)',30);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/berry-juice.png','Ice Heal',30,'Descongela seu pokémon (status frozen)',20);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Parlyz Heal',159,'Retira a paralização de seu pokémon (status parlyz)',4);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/awakening.png','Awakening',283,'Acorda seu pokémon que estiver dormindo (status sleep)',16);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/antidote.png','Antidote',250,'Cura seu pokémon que estiver envenenado (status poison)',50);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/full-heal.png','Full Heal',69,'Cura qualquer um dos problemas de estado',64);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/full-heal.png','Full Restore',119,'Recupera todo o HP e retira todas as condições de estado',96);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/ether.png','Ether',59,'Recupera 10 PP de um golpe',13);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Ether',27,'Recupera todo PP de um golpe',52);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/elixir.png','Elixir',27,'Recupera 10 PP de todos os golpes',77);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Elixir',43,'Recupera todo PP de todos os golpes',72);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-revive.png','Revive',296,'Recupera um pokémon derrotado e o deixa com metade de HP',22);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Revive',51,'Recupera um pokémon derrotado e o deixa com HP no máximo',58);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sacred-ash.png','Sacred Ash',170,'Recupera toda o HP e todas as condições (inclusive derrotado) de toda a sua equipe',93);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/rare-candy.png','Rare Candy',126,'Aumenta 1 Level do seu pokémon',1);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sweet-heart.png','Sweet Heart',320,'Recupera 20 HP',31);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/rage-candy-bar.png','Rage Candy Bar',146,'Recupera 20 HP',67);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lava-cookie.png','Lava Cookie',292,'Cura qualquer um dos problemas de estado',77);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/old-gateau.png','Old Gateau',27,'Cura qualquer um dos problemas de estado',46);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Casteliaone',63,'Cura qualquer um dos problemas de estado',78);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lumiose-galette.png','Lumiose Galette',44,'Cura qualquer um dos problemas de estado',8);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/shalour-sable.png','Shalour Sable',96,'Cura qualquer um dos problemas de estado',41);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/big-malasada.png','Big Malasada',276,'Cura qualquer um dos problemas de estado',6);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/berry-juice.png','Berry Juice',281,'Recupera 20 HP e aumenta a felicidade',66);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/fresh-water.png','Fresh Water',287,'Recupera 30 HP e aumenta a felicidade',59);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/soda-pop.png','Soda Pop',312,'Recupera 50 HP e aumenta a felicidade',52);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lemonade.png','Lemonade',304,'Recupera 70 HP e aumenta a felicidade',49);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/moomoo-milk.png','Moomoo Milk',290,'Recupera 100 HP e aumenta a felicidade',77);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/energy-powder.png','Energy Powder',177,'Recupera 50 HP',86);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/energy-powder.png','Energy Root',162,'Recupera 200 HP',82);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/heal.png','Heal Powder',249,'Cura qualquer um dos problemas de estado',85);
-INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/revival-herb.png','Revival Herb',42,'Recupera um pokémon derrotado e o deixa com HP no máximo',36);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/cherish.png','Cheri Berry',166,'Cura o usuário de paralisia',98);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/chesto.png','Chesto Berry',266,'Cura o usuário de Sono',39);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/pecha.png','Pecha Berry',44,'Cura o usuário de Veneno',15);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/aspear.png','Aspear Berry',70,'Cura o usuário de congelamento',36);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/leppa.png','Leppa Berry',268,'Cura 400 de SP quando o usuário fica abaixo de 20% de SP',66);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/figy.png','Figy Berry',219,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde STR)',28);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/wiki.png','Wiki Berry',214,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde INT)',35);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/mago.png','Mago Berry',13,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde AGI)',64);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/aguav.png','Aguav Berry',188,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde RES)',61);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/iapapa.png','Iapapa Berry',255,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde DEF)',10);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/occa.png','Occa Berry',159,'Reduz dano de golpe recebido do tipo FIRE em 50%',9);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/key-item/pass.png','Passho Berry',314,'Reduz dano de golpe recebido do tipo WATER em 50%',75);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/wacan.png','Wacan Berry',247,'Reduz dano de golpe recebido do tipo ELETRIC em 50%',57);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/rindo.png','Rindo Berry',301,'Reduz dano de golpe recebido do tipo GRASS em 50%',12);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/yache.png','Yache Berry',181,'Reduz dano de golpe recebido do tipo ICE em 50%',13);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/chople.png','Chople Berry',215,'Reduz dano de golpe recebido do tipo FIGHTING em 50%',60);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/kebia.png','Kebia Berry',251,'Reduz dano de golpe recebido do tipo POISON em 50%',19);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/shuca.png','Shuca Berry',294,'Reduz dano de golpe recebido do tipo GROUND em 50%',15);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/coba.png','Coba Berry',222,'Reduz dano de golpe recebido do tipo FLYING em 50%',23);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/payapa.png','Payapa Berry',233,'Reduz dano de golpe recebido do tipo PSYCHIC em 50%',27);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/tanga.png','Tanga Berry',271,'Reduz dano de golpe recebido do tipo BUG em 50%',18);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/charti.png','Charti Berry',108,'Reduz dano de golpe recebido do tipo ROCK em 50%',30);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/kasib.png','Kasib Berry',208,'Reduz dano de golpe recebido do tipo GHOST em 50%',8);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/haban.png','Haban Berry',234,'Reduz dano de golpe recebido do tipo DRAGON em 50%',86);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/colbur.png','Colbur Berry',303,'Reduz dano de golpe recebido do tipo DARK em 50%',81);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/babiri.png','Babiri Berry',165,'Reduz dano de golpe recebido do tipo STEEL em 50%',32);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/chilan.png','Chilan Berry',104,'Reduz dano de golpe recebido do tipo NORMAL em 50%',2);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/roseli.png','Roseli Berry',46,'Reduz dano de golpe recebido do tipo Fairy em 50%',93);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/liechi.png','Liechi Berry',229,'Aumenta ATK quando o HP está abaixo de 25%',34);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/ganlon.png','Ganlon Berry',177,'Aumenta DEF quando o HP está abaixo de 25%',58);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/salac.png','Salac Berry',214,'Aumenta SPEED quando o HP está abaixo de 25%',27);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/petaya.png','Petaya Berry',278,'Aumenta SP ATK quando o HP está abaixo de 25%',28);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/apicot.png','Apicot Berry',11,'Aumenta SP DEF quando o HP está abaixo de 25%',28);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/lansat.png','Lansat Berry',30,'Aumenta CRI quando o HP está abaixo de 25%',69);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/starf.png','Starf Berry',292,'Aumenta muito um status aleatório quando o HP está abaixo de 25%',5);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/micle.png','Micle Berry',115,'Aumenta ACC quando o HP está abaixo de 25%',82);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/custap.png','Custap Berry',19,'Faz o próximo Move carregar mais rápido quando o HP está abaixo de 25%',64);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/jaboca.png','Jaboca Berry',314,'O pokémon que atacar o usuário com um golpe físico recebera 1/8 do MAXHP de dano',10);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/rowap.png','Rowap Berry',158,'O pokémon que atacar o usuário com um golpe especial recebera 1/8 do MAXHP de dano',11);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/kee.png','Kee Berry',290,'Aumenta a DEF se o usuário é atingido por um golpe físico',68);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/maranga.png','Maranga Berry',261,'Aumenta a SP. DEF se o usuário é atingido por um golpe especial',52);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/mail/orange-mail.png','Oran Berry',204,'Cura 750 de HP quando o HP está abaixo de 50%',57);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/persim.png','Persim Berry',204,'Cura o usuário de Confusão',49);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lumiose-galette.png','Lum Berry',161,'Cura o usuário de qualquer major Status',71);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/sitrus.png','Sitrus Berry',154,'Cura 25% de HP quando o HP está abaixo de 50%',22);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/rawst.png','Rawst Berry',263,'Cura o usuário de Burn',58);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/scope-lens.png','Scope Lens',164,'Aumenta a chance de Critical do usuário em um estágio',67);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/bright-powder.png','Bright Powder',265,'Aumenta a Evasão (EVAS) em 10%',40);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/throat-spray.png','Throat Spray',306,'Aumenta o Sp.ATK quando usar um golpe de categoria de Som (sound-based)',15);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/battle-item/max-mushrooms.png','Room Service',44,'Quando afetado por Trick-Room',47);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/misty-seed.png','Misty Seed',311,'Ao ser afetado por Misty Terrain aumenta a SP.Def do usuário',84);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/adrenaline-orb.png','Adrenaline Orb',192,'Ao ser afetado por Intimidate aumenta a SPEED do usuário',68);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/twisted-spoon.png','Twisted Spoon',34,'Aumenta o dano dos golpes do tipo Psychic em 20%',51);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/spell-tag.png','Spell Tag',220,'Aumenta o dano dos golpes do tipo Ghost em 20%',33);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/sharp-beak.png','Sharp Beak',24,'Aumenta o dano dos golpes do tipo Flying em 20%',66);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Never-Melt Ice',95,'Aumenta o dano dos golpes do tipo Ice em 20%',29);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/zoom-lens.png','Zoom Lens',127,'Aumenta a ACC em 20% ao usar um golpe se o alvo não estiver carregando (cast) um golpe.',91);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/quick.png','Quick Powder',139,'Aumenta consideravelmente a SPEED do Ditto',83);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/stick.png','Stick',108,'Aumenta a chance de Critical do Farfetchd em dois estágios',34);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/lagging-tail.png','Lagging Tail',236,'Aumenta o tempo de carregamento (cast) ao usar um golpe',92);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/iron.png','Iron Ball',256,'Reduz muito a SPEED',9);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/deep-sea-scale.png','Deep Sea Tooth',228,'Dobra o SP.ATK do Clamperl',43);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/deep-sea-scale.png','Deep Sea Scale',47,'Dobra a SP.DEF do Clamperl',4);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/normal.png','Normal Gem',199,'Aumenta o poder do golpe do tipo Normal em 50%',47);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/fresh-water.png','Water Gem',278,'Aumenta o poder do golpe do tipo Water em 50%',91);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/ground.png','Ground Gem',309,'Aumenta o poder do golpe do tipo Ground em 50%',53);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/fire-stone.png','Fire Gem',108,'Aumenta o poder do golpe do tipo Fire em 50%',25);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/electric-seed.png','Electric Gem',304,'Aumenta o poder do golpe do tipo Electric em 50%',53);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/poison-barb.png','Poison Gem',217,'Aumenta o poder do golpe do tipo Poison em 50%',93);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/psychic-seed.png','Psychic Gem',31,'Aumenta o poder do golpe do tipo Psychic em 50%',49);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/flying.png','Flying Gem',123,'Aumenta o poder do golpe do tipo Flying em 50%',6);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/ghost.png','Ghost Gem',146,'Aumenta o poder do golpe do tipo Ghost em 50%',84);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/fighting.png','Fighting Gem',319,'Aumenta o poder do golpe do tipo Fighting em 50%',67);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/kings-rock.png','Rock Gem',271,'Aumenta o poder do golpe do tipo Rock em 50%',8);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/bug.png','Bug Gem',183,'Aumenta o poder do golpe do tipo Bug em 50%',61);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/grassy-seed.png','Grass Gem',270,'Aumenta o poder do golpe do tipo Grass em 50%',43);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/berry-juice.png','Ice Gem',0,'Aumenta o poder do golpe do tipo Ice em 50%',65);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/dragon-scale.png','Dragon Gem',134,'Aumenta o poder do golpe do tipo Dragon em 50%',60);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/mail/steel-mail.png','Steel Gem',83,'Aumenta o poder do golpe do tipo Steel em 50%',13);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/key-item/dark-stone.png','Dark Gem',284,'Aumenta o poder do golpe do tipo Dark em 50%',36);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/fairy.png','Fairy Gem',192,'Aumenta o poder do golpe do tipo Fairy em 50%',7);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/pearl-string.png','Ring Target',182,'O usuário perderá sua imunidade a golpes',32);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/float-stone.png','Float Stone',88,'Reduz o peso do Pokémon pela metade',25);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/thick-club.png','Thick Club',200,'Dobra o ATK do Cubone e Marowak',18);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/eviolite.png','Eviolite',320,'Aumenta a DEF e SP.DEF em 50% se o usuário não for totalmente evoluído',65);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/focus-band.png','Focus Sash',29,'Se o Pokémon estiver com o HP cheio e for atingido por um move que o derrotaria',10);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/choice-band.png','Choice Band',77,'Aumenta o ATK em 50%',45);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/choice-band.png','Choice Scarf',174,'Aumenta a SPEED em 50% mas o usuário só poderá usar o primeiro move selecionado',62);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/choice-band.png','Choice Specs',45,'Aumenta o SP.ATK em 50% mas o usuário só poderá usar o primeiro move selecionado',99);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/leftovers.png','Leftovers',154,'Restaura gradualmente o HP do Pokémon (1/16 MAX HP)',72);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/rocky-helmet.png','Rocky Helmet',177,'Se o usuário for atingido por um golpe de contato o atacante receberá dano (1/16 MAX HP)',72);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/air-balloon.png','Air Balloon',46,'Faz o usuário levitar (sendo imune a danos de Ground, Toxic Spikes e Spikes) até receber um golpe',31);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Sludge',96,'Restaura gradualmente o HP do Pokémon do tipo Poison (1/16 MAX HP). Causa dano a Pokémon de outros tipos',44);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/light-ball.png','Light Ball',135,'Dobra o ATK e SP.ATK do Pikachu',92);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/light-ball.png','Light Clay',131,'Barreira protetivas como Light Screen e Reflect durarão mais',69);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/mulch/damp.png','Damp Rock',292,'Aumenta a duração do Rain Dance do usuário',88);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/assault-vest.png','Assault Vest',192,'Aumenta a SP.DEF do usuário em 50% mas prefine moves de status',88);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/life-orb.png','Life Orb',198,'Moves de ataques causam 30% mais de dano porém o usuário perderá 10% do HP a cada uso',81);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/metronome.png','Metronome',1,'Aumenta o power de moves usados consecutivamente em 20% até o máximo de 100%',77);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/bright-powder.png','Bright Powder',79,'Aumenta a Evasão (EVAS) em 10%',15);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sacred-ash.png','Red Card',17,'Força o adversário a trocar o Pokémon se o usuário for atingido por um golpe',57);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/safety-goggles.png','Safety Goggles',69,'Protege o usuário de danos de clima e moves Powder e Spore (Poison Powder, Stun Powder, Spore, Cotton Spore e Sleep Powder)',80);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/smoke-ball.png','Smoke Ball',12,'Permite ao usuário ignorar Pokémon selvagem de level baixo',57);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/toxic-orb.png','Toxic Orb',209,'Deixa o usuário Intensamente Envenenado (Badly Poison)',40);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/flame-orb.png','Flame Orb',215,'Deixa o usuário em chamas (Burn)',13);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/quick.png','Quick Claw',70,'Dá ao usuário 20% de chance de reduzir o carregamento (cast) dos golpes',80);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/heat-rock.png','Heat Rock',290,'Aumenta a duração do Sunny Day do usuário',93);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/big-malasada.png','Big Root',257,'Aumenta em 30% o HP recuperado por moves de drenagem',43);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/wise-glasses.png','Wise Glasses',233,'Aumenta o SP.ATK do usuário em 10%',19);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/focus-band.png','Focus Band',270,'Se for atingido por um move que o derrotaria tem 10% de chance de permanecer com 1 de HP',95);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Signal Amplifier',216,'Aumenta a área de efeito dos golpes em área e solo',66);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/weakness-policy.png','Weakness Policy',136,'Ao ser atingido por um golpe super efetivo aumenta o ATK e SP.ATK drasticamente',39);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/eject-button.png','Eject Button',40,'Se o usuário é atingido por um golpe ele é retirado da batalha',77);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/destiny-knot.png','Destiny Knot',295,'Se o usuário fica apaixonado (Infatuated) o oponente também ficará',15);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/stick.png','Sticky Barb',154,'Causa dano ao usuário a cada turno',7);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/scope-lens.png','Scope Lens',91,'Aumenta a chance de Critical (CRI) do usuário em um estágio',95);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/grip-claw.png','Grip Claw',250,'Aumenta a duração de moves de prisão (partial-trap) para 7 turnos',23);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/blunder-policy.png','Icy Rock',298,'Aumenta a duração do Hail do usuário',39);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/smooth-rock.png','Smooth Rock',220,'Aumenta a duração do Sandstorm do usuário',55);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/mental-herb.png','Mental Herb',215,'Remove Infatuation',84);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/power-herb.png','Power Herb',314,'Permite ao usuário usar normalmente moves que precisam de um turno para carregar (cast)',54);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/white.png','White Herb',129,'Remove mudanças negativas nos estágios',30);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/binding-band.png','Binding Band',122,'Aumenta para 1/16 do MAX HP a drenagem de HP dos moves de Binding (partial-trap)',19);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/wide-lens.png','Wide Lens',248,'Aumenta a accuracy (ACC) do usuário em 10%',11);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/muscle-wing.png','Muscle Band',69,'Aumenta o ATK do usuário em 10%',57);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/protective-pads.png','Protective Pads',41,'Aumenta o usuário de dano adicional de moves que fazem contato',13);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Laser Sight',227,'Aumenta o alcance (Range) dos moves do usuário',90);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/terrain-extender.png','Terrain Extender',239,'Terrenos causados por moves ou ability durarão mais',4);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/absorb-bulb.png','Absorb Bulb',127,'Ao ser atingido por um move do tipo água (Water) aumenta o SP.ATK',5);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/cell-battery.png','Cell Battery',253,'Ao ser atingido por um move do tipo elétrico (Electric) aumenta o ATK',8);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/snowball.png','Snow Ball',209,'Ao ser atingido por um move do tipo gelo (Ice) aumenta o ATK',97);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/luminous-moss.png','Luminous Moss',102,'Ao ser atingido por um move do tipo água (Water) aumenta o SP.DEF',1);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/utility-umbrella.png','Utility Umbrella',5,'Faz o Pokémon não ser afetado por efeito de clima',84);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/blunder-policy.png','Blunder Policy',142,'Ao falhar um golpe em uma checagem de ACC ou EVAS aumenta drasticamente a SPEED',30);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/eject-button.png','Eject Pack',120,'Ao ter um status reduzido o Pokémon é retirado da batalha',35);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/silk-scarf.png','Silk Scarf',38,'Aumenta o dano de golpe do tipo Normal em 20%',44);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/mystic-water.png','Mystic Water',156,'Aumenta o dano de golpe do tipo Water em 20%',29);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/soft-sand.png','Soft Sand',273,'Aumenta o dano de golpe do tipo Ground em 20%',99);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/charcoal.png','Charcoal',64,'Aumenta o dano de golpe do tipo Fire em 20%',30);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/net.png','Magnet',26,'Aumenta o dano de golpe do tipo Electric em 20%',6);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/poison-barb.png','Poison Barb',188,'Aumenta o dano de golpe do tipo Poison em 20%',53);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/twisted-spoon.png','Twisted Spoon',28,'Aumenta o dano de golpe do tipo Psychic em 20%',61);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/sharp-beak.png','Sharp Beak',67,'Aumenta o dano de golpe do tipo Flying em 20%',58);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/spell-tag.png','Spell Tag',172,'Aumenta o dano de golpe do tipo Ghost em 20%',23);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Belt',235,'Aumenta o dano de golpe do tipo Fighting em 20%',14);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/comet-shard.png','Hard Stone',281,'Aumenta o dano de golpe do tipo Rock em 20%',83);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/relic-silver.png','Silver Powder',306,'Aumenta o dano de golpe do tipo Bug em 20%',99);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/miracle-seed.png','Miracle Seed',298,'Aumenta o dano de golpe do tipo Grass em 20%',14);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/dragon-scale.png','Dragon Fang',154,'Aumenta o dano de golpe do tipo Dragon em 20%',47);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Glasses',4,'Aumenta o dano de golpe do tipo Dark em 20%',46);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/zoom-lens.png','Zoom Lens',120,'Aumenta a Accuracy (ACC) EM 20% ao usar um golpe se o adversário não estiver carregando (cast) um golpe',53);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/metal-coat.png','Metal Disc',266,'Aumenta o dano de golpe do tipo Steel em 20%',17);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/shoal-shell.png','Shell Bell',217,'Toda a vez que o Pokémon causar dano com um move ele restaura 1/8 do dano causado',45);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/heavy.png','Heavy-Duty Boots',171,'Fazem o Pokémom não ser afetado por Entry Hazard (como Spikes, Toxic Spikes e Stealth Rock)',63);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/m.png','Venom Fang',67,'Aumenta SPEED e SP.ATK do Seviper em 50%. Aumenta ATK do Seviper em 30%',49);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/fast.png','Fast Battery',166,'Dobra SPEED do Tynamo',76);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/m.png','Adamantium Fang',136,'Dobra SPEED do Rattata',43);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/s.png','Frost Note',22,'Aumenta o ATK do Lapras em 100%. Reduz dano do tipo Fighting (lutador) em 20%',2);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/cleanse-tag.png','Cleanse Tag',149,'Reduz as chances de encontrar pokémons selvagens mais fracos que o primeiro pokémon da sua equipe',29);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-honey.png','Honey',295,'Usado para atrair pokémons selvagens',4);
-INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
-                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/adrenaline-orb.png','Adrenaline Orb',50,'Ao ser afetado por Intimidate aumenta a SPEED do usuário',45);
 INSERT INTO habilidade (nome,descricao) VALUES ('Adaptability','Aumenta o poder de movimentos do mesmo tipo que o Pokémon.');
 INSERT INTO habilidade (nome,descricao) VALUES ('Aerilate','Movimentos do tipo Normal se tornam movimentos do tipo Voador e o poder destes ataques é também aumentado um pouco.');
 INSERT INTO habilidade (nome,descricao) VALUES ('Aftermath','Fere o atacante se ele entrar em contato com o Pokémon em um golpe final, que o tiraria da batalha.');
@@ -3178,640 +2438,640 @@ INSERT INTO ataque (nome,accuracy,power,id_Tipo,categoria,pp,tm,descricao)
                                                 VALUES ('Zing Zap',100,80,5,'physical',10,'','May cause flinching.');
 INSERT INTO ataque (nome,accuracy,power,id_Tipo,categoria,pp,tm,descricao) 
                                                 VALUES ('Zippy Zap',100,50,5,'physical',15,'','Always results in a critical hit.');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/31.png','Brock','Pewter City',1,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/3.png','Misty','Cerulean City',2,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/76.png','Lt. Surge','Vermilion City',3,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/46.png','Erika','Celadon City',4,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/54.png','Sabrina','Saffron City',5,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/12.png','Koga','Fuchsia City',6,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/55.png','Blaine','Cinnabar Island',7,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/18.png','Giovanni','Viridian City',8,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/22.png','Norman','Petalburg City',9,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/64.png','Tate e Liza','Mossdeep City',10,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/65.png','Winona','Fortree City',11,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','Wallace','Sootopolis City',12,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/39.png','Fantina','Hearthome City',13,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/22.png','Maylene','Veilstone City',14,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/114.png','Crasher Wake','Pastoria City',15,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/24.png','Candice','Snowpoint City',16,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/114.png','Morty','Ecruteak City',17,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/13.png','Whitney','Goldenrod City',18,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/85.png','Jasmine','Olivine City',19,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/69.png','Pryce','Mahogany Town',20,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/41.png','Clair','Blackthorn City',21,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Burgh','Castelia City',22,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/60.png','Drayden','Opelucid City',23,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/87.png','Iris','Opelucid City',24,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/20.png','Cilan Chili e Cress','Striaton City',25,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/82.png','Lenora','Nacrene City',26,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Elesa','Nimbasa City',27,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/28.png','Clay','Driftveil City',28,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/89.png','Skyla','Mistralton City',29,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/51.png','Brycen','Icirrus City',30,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/66.png','Roxie','Virbank City',31,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/12.png','Cheren','Aspertia City',32,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/12.png','Viola','Santalune City',33,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/25.png','Grant','Cyllage City',34,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/116.png','Clemont','Lumiose City',35,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/59.png','Korrina','Shalour City',36,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/34.png','Ramos','Coumarine City',37,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/26.png','Valerie','Laverre City',38,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/88.png','Olympia','Anistar City',39,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/15.png','Wulfric','Snowbelle City',40,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/20.png','Wattson','Mauville City',41,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/75.png','Katy','Cercle Town',42,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/29.png','Brassius','Bowl Town',43,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','Iono','Hakko City',44,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/89.png','Kofu','Carafe City',45,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/15.png','Larry','Chanpuru Town',46,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/67.png','Ryme','Fridge Town',47,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/33.png','Tulip','Bake Town',48,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/115.png','Grusha','Mount Napper',49,'Lider de Ginásio');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/39.png','Professor Oak','Pallet Town',50,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/63.png','Professor Elm','New Bark Town',51,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/18.png','Professor Birch','Littleroot Town',52,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/64.png','Professor Rowan','Sandgem Town',53,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Professor Juniper','Nuvema Town',54,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','Professor Sycamore','Lumiose City',55,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/62.png','Professor Kukui','Iki Town',56,'Professor');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/21.png','Professor Burnet','Hauoli City',57,'Pesquisadora');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/15.png','Professor Cozmo','Fallarbor Town',58,'Pesquisador');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/43.png','Professor Hastings','Floaroma Town',59,'Pesquisador');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/38.png','Professor Carolina','Sandgem Town',60,'Pesquisadora');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/79.png','Professor Fennel','Striaton City',61,'Pesquisadora');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/12.png','Professor Aurea','Oreburgh City',62,'Pesquisadora');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/80.png','Professor P. Rowan','Eterna City',63,'Pesquisador');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/49.png','Professor Kukuis Wife','Hauoli City',64,'Pesquisadora');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/21.png','Professor Bellis','Castelia City',65,'Pesquisadora');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/88.png','Professor Burnets Assistant','Hauoli City',66,'Pesquisador');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/49.png','Professor Kukuis Assistant','Hauoli City',67,'Pesquisador');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/17.png','Lorelei','Indigo Plateau',68,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/14.png','Bruno','Indigo Plateau',69,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/71.png','Agatha','Indigo Plateau',70,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/61.png','Lance','Indigo Plateau',71,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/62.png','Will','Pokémon League Johto',72,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/26.png','Koga','Pokémon League Johto',73,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/11.png','Bruno','Pokémon League Johto',74,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/87.png','Karen','Pokémon League Johto',75,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/80.png','Sidney','Pokémon League Hoenn',76,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/7.png','Phoebe','Pokémon League Hoenn',77,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/56.png','Glacia','Pokémon League Hoenn',78,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/77.png','Drake','Pokémon League Hoenn',79,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/42.png','Aaron','Pokémon League Sinnoh',80,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/48.png','Bertha','Pokémon League Sinnoh',81,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/85.png','Flint','Pokémon League Sinnoh',82,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/11.png','Lucian','Pokémon League Sinnoh',83,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Shauntal','Pokémon League Unova',84,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/13.png','Grimsley','Pokémon League Unova',85,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/26.png','Caitlin','Pokémon League Unova',86,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Marshal','Pokémon League Unova',87,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/5.png','Malva','Pokémon League Kalos',88,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/111.png','Wikstrom','Pokémon League Kalos',89,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/58.png','Siebold','Pokémon League Kalos',90,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/75.png','Drasna','Pokémon League Kalos',91,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/102.png','Kahili','Pokémon League Alola',92,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/116.png','Molayne','Pokémon League Alola',93,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/29.png','Olivia','Pokémon League Alola',94,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/54.png','Acerola','Pokémon League Alola',95,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/62.png','Malva','Pokémon League Galar',96,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/10.png','Aaron','Pokémon League Galar',97,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/46.png','Bertha','Pokémon League Galar',98,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/84.png','Grimsley','Pokémon League Galar',99,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/34.png','Rika','Pokémon League Paldea',100,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/41.png','Poppy','Pokémon League Paldea',101,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/85.png','Larry','Pokémon League Paldea',102,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/36.png','Hassel','Pokémon League Paldea',103,'Elite 4');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/77.png','Blue','Indigo Plateau',104,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/14.png','Red','Indigo Plateau',105,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/86.png','Lance','Pokémon League Johto',106,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/78.png','Steven','Pokémon League Hoenn',107,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/85.png','Cynthia','Pokémon League Sinnoh',108,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/71.png','Iris','Pokémon League Unova',109,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Diantha','Pokémon League Kalos',110,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/60.png','Ash','Pokémon League Alola',111,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/85.png','Leon','Pokémon League Galar',112,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/86.png','Geeta','Pokémon League Paldea',113,'Champion');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','Dorothy','Cinnabar Island',114,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/71.png','Laurie','Heahea City',115,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/10.png','Aaron','Vaniville Town',116,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/11.png','Carol','Sootopolis City',117,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/42.png','Francisco','Po Town',118,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/2.png','Wesley','Bowl Town',119,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/7.png','Kimberly','Twinleaf Town',120,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Richard','Nuvema Town',121,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/20.png','Charisse','Iki Town',122,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/36.png','Andrew','Snowpoint City',123,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/8.png','John','Rustboro City',124,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/6.png','Robert','Circhester',125,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/77.png','Armando','Mossdeep City',126,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/10.png','Beatrice','Lumiose City',127,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/26.png','Amy','Lavaridge Town',128,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/49.png','Sharon','Circhester',129,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/69.png','Roberto','Hearthome City',130,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/27.png','Patricia','Twinleaf Town',131,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/8.png','Andrew','Castelia City',132,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/82.png','Emily','Rustboro City',133,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/57.png','Thomas','Lavaridge Town',134,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/64.png','Indira','Lavaridge Town',135,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/13.png','David','Aquacorde Town',136,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/8.png','Nancy','Anistar City',137,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/8.png','William','Pastoria City',138,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Jacqueline','Oldale Town',139,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/117.png','Marie','Saffron City',140,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/23.png','Alyson','Anistar City',141,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/78.png','Kyung','Mauville City',142,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/77.png','Carol','Hauoli City',143,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/25.png','Bianca','Cerulean City',144,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/8.png','Jacob','Heahea City',145,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','Venus','Konikoni City',146,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/76.png','Kevin','Hammerlocke',147,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/121.png','Richard','Castelia City',148,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','Stanley','Mauville City',149,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/97.png','Andrew','Rustboro City',150,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/48.png','Magdalena','Hearthome City',151,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/80.png','Jeffery','Cercle Town',152,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/61.png','Michael','Postwick',153,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/18.png','John','Opelucid City',154,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/18.png','Helen','Dewford Town',155,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/6.png','Jaye','Celadon City',156,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/44.png','Homer','Spikemuth',157,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/2.png','Robert','Lavaridge Town',158,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/32.png','Alfred','Snowbelle City',159,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/3.png','Donald','Violet City',160,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/25.png','Ralph','Sunyshore City',161,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/4.png','Dolores','Cianwood City',162,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/31.png','Johnnie','Lavaridge Town',163,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/28.png','Haydee','Santalune City',164,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/14.png','Gloria','Spikemuth',165,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/73.png','Randall','Aquacorde Town',166,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/61.png','Barry','Heahea City',167,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/24.png','Louise','Accumula Town',168,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/33.png','Tara','Cerulean City',169,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/41.png','Julia','Wyndon',170,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Howard','Jubilife City',171,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/13.png','Sherry','Hauoli City',172,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/64.png','Nicholas','Driftveil City',173,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/16.png','Douglas','Littleroot Town',174,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/48.png','Tracie','Ecruteak City',175,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/47.png','Harry','Icirrus City',176,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/8.png','Anthony','Shalour City',177,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/24.png','Julie','Laverre City',178,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/111.png','Josefina','Veilstone City',179,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/35.png','Tricia','Celadon City',180,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/68.png','Shelly','Mahogany Town',181,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/53.png','Norman','Hammerlocke',182,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/69.png','Ruth','Lumiose City',183,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/79.png','Michael','Pewter City',184,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','Rachel','Carafe City',185,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/53.png','William','Veilstone City',186,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/28.png','Mary','Dewford Town',187,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/30.png','Hugh','Azalea Town',188,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/13.png','Lance','Snowbelle City',189,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/17.png','Patricia','Oreburgh City',190,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/9.png','Paul','Sootopolis City',191,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/61.png','Peggy','Opelucid City',192,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/49.png','Joyce','Carafe City',193,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/62.png','Calvin','Accumula Town',194,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','William','Violet City',195,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/71.png','Gaylord','Postwick',196,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/43.png','Guillermo','Saffron City',197,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/74.png','Flora','Lavaridge Town',198,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/26.png','Mary','Fortree City',199,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/27.png','Roland','Cyllage City',200,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/4.png','James','Hearthome City',201,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/30.png','Anne','Malie City',202,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Christopher','Camphrier Town',203,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/83.png','Danielle','Postwick',204,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/81.png','Rita','Blackthorn City',205,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/11.png','Bryan','Bake Town',206,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/22.png','Robert','Postwick',207,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/31.png','Pauline','Malie City',208,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/19.png','Sheila','Icirrus City',209,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/79.png','Margorie','Lavaridge Town',210,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/80.png','Bernard','Accumula Town',211,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/86.png','Susan','Snowpoint City',212,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/22.png','Erik','Hulbury',213,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/24.png','Carole','Goldenrod City',214,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/24.png','Esther','Blackthorn City',215,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/42.png','Johanna','Aquacorde Town',216,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/35.png','Michael','Ecruteak City',217,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/74.png','Jacob','Olivine City',218,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/88.png','Pedro','Oreburgh City',219,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Rosa','Bowl Town',220,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/29.png','Andrew','Vaniville Town',221,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/58.png','Margaret','Driftveil City',222,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/6.png','Ronald','Oldale Town',223,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/41.png','Scott','Oreburgh City',224,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/10.png','Lawrence','Striaton City',225,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/59.png','Arlene','Hulbury',226,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/80.png','Jennifer','Aquacorde Town',227,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/26.png','Sheila','Dewford Town',228,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/65.png','Randy','Nuvema Town',229,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/28.png','Gary','Bake Town',230,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Amy','Iki Town',231,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/14.png','Megan','Hearthome City',232,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/50.png','Marie','Fuchsia City',233,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/71.png','Vern','Hakko City',234,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/41.png','George','Stow-on-Side',235,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/34.png','Herbert','Castelia City',236,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/26.png','James','Stow-on-Side',237,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/35.png','Frances','Dewford Town',238,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/31.png','James','Carafe City',239,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/43.png','Margaret','Po Town',240,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/7.png','Phillip','Sandgem Town',241,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/70.png','Sharon','Laverre City',242,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/43.png','Katherine','Hearthome City',243,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/51.png','Lillian','Pastoria City',244,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/49.png','Janet','Pewter City',245,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Theresa','Bake Town',246,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/35.png','Nathan','Mahogany Town',247,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/88.png','Brianne','Jubilife City',248,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/61.png','Richard','Ecruteak City',249,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Whitney','Coumarine City',250,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/60.png','Elizabeth','Laverre City',251,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/61.png','Micheal','Driftveil City',252,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/97.png','Frances','Twinleaf Town',253,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/36.png','Paula','Rustboro City',254,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/63.png','Eunice','Castelia City',255,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/62.png','Margaret','Striaton City',256,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/6.png','Natasha','Azalea Town',257,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/81.png','Robert','Azalea Town',258,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/74.png','Reginald','Pewter City',259,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/21.png','Jessica','Saffron City',260,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/86.png','Stephen','Lumiose City',261,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/10.png','Clara','Shalour City',262,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/68.png','Mae','Veilstone City',263,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/3.png','Judith','Coumarine City',264,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/102.png','Charles','Canalave City',265,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/34.png','Rochelle','Twinleaf Town',266,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/80.png','Joshua','Santalune City',267,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Maria','Icirrus City',268,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/43.png','Patricia','Iki Town',269,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/23.png','Arthur','Hearthome City',270,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Robert','Lavaridge Town',271,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/80.png','Cathryn','Petalburg City',272,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/79.png','Tammi','Po Town',273,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/21.png','Alice','Fallarbor Town',274,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','John','Nimbasa City',275,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/42.png','Scott','Spikemuth',276,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/114.png','Simon','Ecruteak City',277,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/59.png','Loretta','Wyndon',278,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/28.png','Mary','Celadon City',279,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','Carrie','Cinnabar Island',280,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/59.png','Patricia','Twinleaf Town',281,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/56.png','John','Hammerlocke',282,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/52.png','Shari','Hearthome City',283,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','John','Iki Town',284,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/73.png','Joyce','Coumarine City',285,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/22.png','Robert','Twinleaf Town',286,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/23.png','Robert','Opelucid City',287,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Noel','Driftveil City',288,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Beverly','Circhester',289,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/3.png','Ericka','Hearthome City',290,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/73.png','Jimmy','Mount Napper',291,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/86.png','Kendall','Nimbasa City',292,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/18.png','Hector','Humilau City',293,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/9.png','Valerie','Lavaridge Town',294,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/31.png','Beverly','Mount Napper',295,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/8.png','Louis','Azalea Town',296,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/28.png','Mary','Iki Town',297,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/54.png','Alma','Veilstone City',298,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/51.png','Alicia','Lavaridge Town',299,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Patricia','Tapu Village',300,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/75.png','Natashia','Twinleaf Town',301,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/18.png','Brandy','Icirrus City',302,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/9.png','Harold','Hearthome City',303,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/80.png','Gerald','Circhester',304,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/50.png','Charles','Twinleaf Town',305,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/30.png','Charles','Dewford Town',306,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/95.png','Clara','Saffron City',307,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/27.png','Alejandro','Cerulean City',308,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/54.png','Eric','Circhester',309,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/61.png','Deborah','Laverre City',310,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/8.png','Michael','Stow-on-Side',311,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/43.png','Anna','Hammerlocke',312,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/24.png','Hazel','Aspertia City',313,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/30.png','Eddy','Hauoli City',314,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/95.png','Jason','Shalour City',315,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/43.png','Amanda','Mossdeep City',316,'Comum');
-INSERT INTO treinador (url,nome,id_Cidade,id_Mochila,id_Classe) 
-                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/48.png','Marjorie','Coumarine City',317,'Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/70.png','Brock','Pewter City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/12.png','Misty','Cerulean City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/63.png','Lt. Surge','Vermilion City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Erika','Celadon City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/34.png','Sabrina','Saffron City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/26.png','Koga','Fuchsia City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/6.png','Blaine','Cinnabar Island','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/55.png','Giovanni','Viridian City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/80.png','Norman','Petalburg City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/30.png','Tate e Liza','Mossdeep City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/84.png','Winona','Fortree City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/56.png','Wallace','Sootopolis City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/11.png','Fantina','Hearthome City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/62.png','Maylene','Veilstone City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/121.png','Crasher Wake','Pastoria City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/11.png','Candice','Snowpoint City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/50.png','Morty','Ecruteak City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/7.png','Whitney','Goldenrod City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/39.png','Jasmine','Olivine City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/66.png','Pryce','Mahogany Town','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/23.png','Clair','Blackthorn City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Burgh','Castelia City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/16.png','Drayden','Opelucid City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/6.png','Iris','Opelucid City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','Cilan Chili e Cress','Striaton City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/9.png','Lenora','Nacrene City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/53.png','Elesa','Nimbasa City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/31.png','Clay','Driftveil City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/61.png','Skyla','Mistralton City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/14.png','Brycen','Icirrus City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Roxie','Virbank City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Cheren','Aspertia City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/88.png','Viola','Santalune City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/40.png','Grant','Cyllage City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/61.png','Clemont','Lumiose City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/111.png','Korrina','Shalour City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/39.png','Ramos','Coumarine City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/32.png','Valerie','Laverre City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/72.png','Olympia','Anistar City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/78.png','Wulfric','Snowbelle City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/86.png','Wattson','Mauville City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/96.png','Katy','Cercle Town','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/43.png','Brassius','Bowl Town','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/54.png','Iono','Hakko City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/57.png','Kofu','Carafe City','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/30.png','Larry','Chanpuru Town','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/9.png','Ryme','Fridge Town','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/121.png','Tulip','Bake Town','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/61.png','Grusha','Mount Napper','Lider de Ginásio');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/19.png','Professor Oak','Pallet Town','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','Professor Elm','New Bark Town','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/77.png','Professor Birch','Littleroot Town','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/9.png','Professor Rowan','Sandgem Town','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/70.png','Professor Juniper','Nuvema Town','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','Professor Sycamore','Lumiose City','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/97.png','Professor Kukui','Iki Town','Professor');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/43.png','Professor Burnet','Hauoli City','Pesquisadora');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/6.png','Professor Cozmo','Fallarbor Town','Pesquisador');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/61.png','Professor Hastings','Floaroma Town','Pesquisador');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','Professor Carolina','Sandgem Town','Pesquisadora');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/57.png','Professor Fennel','Striaton City','Pesquisadora');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/86.png','Professor Aurea','Oreburgh City','Pesquisadora');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/20.png','Professor P. Rowan','Eterna City','Pesquisador');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/17.png','Professor Kukuis Wife','Hauoli City','Pesquisadora');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/67.png','Professor Bellis','Castelia City','Pesquisadora');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/87.png','Professor Burnets Assistant','Hauoli City','Pesquisador');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/61.png','Professor Kukuis Assistant','Hauoli City','Pesquisador');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/88.png','Lorelei','Indigo Plateau','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/40.png','Bruno','Indigo Plateau','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/60.png','Agatha','Indigo Plateau','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/51.png','Lance','Indigo Plateau','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/18.png','Will','Pokémon League Johto','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/85.png','Koga','Pokémon League Johto','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/96.png','Bruno','Pokémon League Johto','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/24.png','Karen','Pokémon League Johto','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Sidney','Pokémon League Hoenn','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/16.png','Phoebe','Pokémon League Hoenn','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/64.png','Glacia','Pokémon League Hoenn','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/20.png','Drake','Pokémon League Hoenn','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/61.png','Aaron','Pokémon League Sinnoh','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/52.png','Bertha','Pokémon League Sinnoh','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/26.png','Flint','Pokémon League Sinnoh','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/85.png','Lucian','Pokémon League Sinnoh','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/79.png','Shauntal','Pokémon League Unova','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/33.png','Grimsley','Pokémon League Unova','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/16.png','Caitlin','Pokémon League Unova','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/76.png','Marshal','Pokémon League Unova','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/22.png','Malva','Pokémon League Kalos','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/79.png','Wikstrom','Pokémon League Kalos','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/58.png','Siebold','Pokémon League Kalos','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/122.png','Drasna','Pokémon League Kalos','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/36.png','Kahili','Pokémon League Alola','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/16.png','Molayne','Pokémon League Alola','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/53.png','Olivia','Pokémon League Alola','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/14.png','Acerola','Pokémon League Alola','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/71.png','Malva','Pokémon League Galar','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/6.png','Aaron','Pokémon League Galar','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/41.png','Bertha','Pokémon League Galar','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/78.png','Grimsley','Pokémon League Galar','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/41.png','Rika','Pokémon League Paldea','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/51.png','Poppy','Pokémon League Paldea','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/46.png','Larry','Pokémon League Paldea','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/16.png','Hassel','Pokémon League Paldea','Elite 4');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/58.png','Blue','Indigo Plateau','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/78.png','Red','Indigo Plateau','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/77.png','Lance','Pokémon League Johto','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/69.png','Steven','Pokémon League Hoenn','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/89.png','Cynthia','Pokémon League Sinnoh','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/66.png','Iris','Pokémon League Unova','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/63.png','Diantha','Pokémon League Kalos','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Ash','Pokémon League Alola','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/55.png','Leon','Pokémon League Galar','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/38.png','Geeta','Pokémon League Paldea','Champion');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/12.png','Brittany','Canalave City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/10.png','Ann','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/116.png','Ralph','Mount Napper','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/48.png','Laurie','Hulbury','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/96.png','Randolph','Lumiose City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/68.png','Parker','Lumiose City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/95.png','Amanda','Violet City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/69.png','Beatrice','New Bark Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/16.png','Franklin','Lumiose City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/41.png','Henry','Mount Napper','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/70.png','Stephen','Sootopolis City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/34.png','Daniell','Iki Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/75.png','Helen','Saffron City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/62.png','Gary','Eterna City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/25.png','Susan','Anistar City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/15.png','Risa','Oldale Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/60.png','Gay','Konikoni City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/48.png','Alvin','Olivine City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/23.png','Wilma','Celadon City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/90.png','Pamela','Driftveil City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/16.png','Anne','Santalune City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/85.png','James','Ecruteak City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/65.png','Patricia','New Bark Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/60.png','Michael','Vaniville Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/31.png','Anna','Sootopolis City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/83.png','David','Sootopolis City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/77.png','Vivian','New Bark Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/32.png','David','Spikemuth','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/45.png','Claudia','Wyndon','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/70.png','Jeffery','Ever Grande City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/32.png','Joseph','Fallarbor Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/80.png','Mathew','Humilau City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/48.png','Bruce','Aquacorde Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','Larry','Mauville City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Bernadine','Nacrene City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/69.png','John','Humilau City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/65.png','Sandra','Ever Grande City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/97.png','Mary','Circhester','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/88.png','Foster','Nacrene City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/6.png','Mary','Fridge Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/19.png','Daniel','Eterna City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/4.png','Jordan','Azalea Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/60.png','Rebecca','Cerulean City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/5.png','Michael','Hakko City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/17.png','Rafael','Cercle Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/60.png','Emma','Fuchsia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/63.png','Cynthia','Konikoni City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/114.png','Anthony','Snowbelle City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/71.png','Elsie','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/43.png','Peter','Malie City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/32.png','Pat','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/57.png','Diane','Fuchsia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/27.png','Georgina','Eterna City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/75.png','Martha','Rustboro City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/84.png','Perla','Fridge Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/87.png','Karen','Mistralton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Fred','Spikemuth','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/46.png','Mildred','Konikoni City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/47.png','Gregory','Mossdeep City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/74.png','Laura','Rustboro City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/38.png','Linda','Lavaridge Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/69.png','Laura','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/5.png','Corey','Nimbasa City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/85.png','Veronica','Celadon City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/14.png','Clint','Celadon City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/70.png','Lawrence','Petalburg City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/58.png','Ruby','Aspertia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/72.png','Donna','Hauoli City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/49.png','Diana','Sandgem Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/2.png','Angela','Mossdeep City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/6.png','Nancy','Snowbelle City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/42.png','Erlinda','Ever Grande City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/51.png','Ramon','Pallet Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/74.png','Henry','Stow-on-Side','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/78.png','Richard','Hauoli City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/18.png','Michelle','Tapu Village','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/35.png','Todd','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/36.png','Marie','Fortree City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/25.png','Grace','Eterna City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/64.png','Shaun','Saffron City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/63.png','Deborah','Sandgem Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/87.png','Sarah','Azalea Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/70.png','Christi','Konikoni City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/117.png','Troy','Mount Napper','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','Violet','Mistralton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/56.png','Catherine','Circhester','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/58.png','Thomas','Wyndon','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/56.png','William','Violet City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/49.png','Roger','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/73.png','Robert','Hauoli City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/63.png','Sue','Mahogany Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/116.png','Thomas','Mossdeep City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/81.png','Rosalind','Laverre City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/83.png','Julia','Blackthorn City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/86.png','Shawn','Lavaridge Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/87.png','Madeline','Cinnabar Island','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/52.png','Lillian','Sandgem Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/7.png','Larry','Mahogany Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/42.png','Antonia','Oldale Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/7.png','Stacey','Icirrus City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/51.png','Richard','Aspertia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/74.png','Evangeline','Twinleaf Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/2.png','Brad','Verdanturf Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/79.png','Howard','Carafe City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/68.png','Maria','Hulbury','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/40.png','Jodi','Accumula Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/116.png','Barbara','Stow-on-Side','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/45.png','Jennifer','Camphrier Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/118.png','Carey','Malie City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/5.png','David','Cianwood City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/5.png','Norene','Cerulean City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/116.png','Richard','Heahea City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/23.png','Gregory','Petalburg City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/80.png','Judith','Bake Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/95.png','Astrid','Malie City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/24.png','Joseph','Littleroot Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/73.png','John','Hauoli City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/11.png','Sara','Po Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/24.png','John','Santalune City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/60.png','Michael','Postwick','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/42.png','Wilma','Striaton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/14.png','Victoria','Hearthome City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/33.png','Rickey','Olivine City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/22.png','Michelle','Olivine City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/25.png','Lonny','Striaton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/19.png','Pauline','Littleroot Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/111.png','Julie','Goldenrod City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/37.png','Frances','Vermilion City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/83.png','Jose','Lumiose City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/20.png','Thomas','Motostoke','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/31.png','Opal','Vermilion City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/62.png','Alvin','Fuchsia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/117.png','Nicholas','Cianwood City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/18.png','Jerry','Camphrier Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/121.png','Wayne','Stow-on-Side','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/25.png','William','Petalburg City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/64.png','Angela','Opelucid City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/48.png','Rose','Saffron City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/42.png','Martha','Cherrygrove City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/11.png','Marilyn','Accumula Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/44.png','Robert','Cerulean City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/81.png','Margarita','Veilstone City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/80.png','Genevie','Turffield','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/38.png','Gordon','Goldenrod City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/26.png','Cherly','Aspertia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/14.png','Cheryl','Snowpoint City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/3.png','Leroy','Virbank City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/50.png','Christopher','Driftveil City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/3.png','Gregory','Shalour City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/4.png','Steven','Goldenrod City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/44.png','Jessica','Pallet Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/68.png','Karol','Iki Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/20.png','Pamela','Ecruteak City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/88.png','Dante','Po Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/32.png','Georgina','Stow-on-Side','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/24.png','Helen','Chanpuru Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/25.png','Willis','Santalune City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/32.png','William','Hauoli City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/89.png','Ramon','Chanpuru Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/65.png','Raymond','Vaniville Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/32.png','Glen','Pastoria City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/79.png','Shawn','Viridian City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/10.png','Sandra','Lavaridge Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/57.png','Sheila','Icirrus City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','Crystal','Vermilion City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/9.png','Erica','Castelia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/19.png','Albert','Sandgem Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/71.png','Peter','Ever Grande City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/33.png','Treva','Cerulean City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/66.png','Elisha','Mistralton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/69.png','Valerie','Laverre City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/24.png','Leo','Violet City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/6.png','Irma','Aspertia City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/4.png','Janet','Twinleaf Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/25.png','Eugene','Nimbasa City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/7.png','William','Santalune City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/74.png','Danny','Veilstone City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/96.png','Scott','Mistralton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/62.png','Eleanor','Bowl Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/69.png','Sandy','Striaton City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/56.png','Reginald','Heahea City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/3.png','Robert','Verdanturf Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/61.png','Jay','Lavaridge Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/97.png','Jason','Oreburgh City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/17.png','Melvin','Pewter City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/56.png','Angela','Violet City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/59.png','Breana','Mount Napper','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/51.png','Traci','Iki Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/11.png','Ann','Accumula Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/36.png','Judith','Konikoni City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/56.png','Ron','Bake Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/65.png','Stephen','Mount Napper','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/3.png','Nellie','Konikoni City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/53.png','Stewart','Vaniville Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/36.png','Tiffany','Ever Grande City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/48.png','Ronald','Chanpuru Town','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/28.png','Irene','Saffron City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/7.png','Betty','Mauville City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/8.png','Margaret','Driftveil City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/dp/37.png','Avery','Santalune City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/22.png','Marvin','Malie City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/57.png','Norbert','Oreburgh City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/hgss/8.png','Michael','Fortree City','Comum');
+INSERT INTO treinador (url,nome,id_Cidade,id_Classe) 
+                                    VALUES ('http://www.serebii.net/pokearth/trainers/bw/3.png','John','Anistar City','Comum');
 INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Pewter City',33,'Insígnia de Rocha');
 INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Cerulean City',4,'Insígnia de Cascata');
 INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Vermilion City',10,'Insígnia de Trovão');
@@ -3861,6 +3121,742 @@ INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Chanpuru Town'
 INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Fridge Town',135,'Insígnia Ghost');
 INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Bake Town',77,'Insígnia Psychic');
 INSERT INTO ginasio (id_Cidade,id_Treinador,id_insignia) VALUES ('Mount Napper',85,'Insígnia Ice');
+INSERT INTO mochila (id_treinador) VALUES (0);
+INSERT INTO mochila (id_treinador) VALUES (1);
+INSERT INTO mochila (id_treinador) VALUES (2);
+INSERT INTO mochila (id_treinador) VALUES (3);
+INSERT INTO mochila (id_treinador) VALUES (4);
+INSERT INTO mochila (id_treinador) VALUES (5);
+INSERT INTO mochila (id_treinador) VALUES (6);
+INSERT INTO mochila (id_treinador) VALUES (7);
+INSERT INTO mochila (id_treinador) VALUES (8);
+INSERT INTO mochila (id_treinador) VALUES (9);
+INSERT INTO mochila (id_treinador) VALUES (10);
+INSERT INTO mochila (id_treinador) VALUES (11);
+INSERT INTO mochila (id_treinador) VALUES (12);
+INSERT INTO mochila (id_treinador) VALUES (13);
+INSERT INTO mochila (id_treinador) VALUES (14);
+INSERT INTO mochila (id_treinador) VALUES (15);
+INSERT INTO mochila (id_treinador) VALUES (16);
+INSERT INTO mochila (id_treinador) VALUES (17);
+INSERT INTO mochila (id_treinador) VALUES (18);
+INSERT INTO mochila (id_treinador) VALUES (19);
+INSERT INTO mochila (id_treinador) VALUES (20);
+INSERT INTO mochila (id_treinador) VALUES (21);
+INSERT INTO mochila (id_treinador) VALUES (22);
+INSERT INTO mochila (id_treinador) VALUES (23);
+INSERT INTO mochila (id_treinador) VALUES (24);
+INSERT INTO mochila (id_treinador) VALUES (25);
+INSERT INTO mochila (id_treinador) VALUES (26);
+INSERT INTO mochila (id_treinador) VALUES (27);
+INSERT INTO mochila (id_treinador) VALUES (28);
+INSERT INTO mochila (id_treinador) VALUES (29);
+INSERT INTO mochila (id_treinador) VALUES (30);
+INSERT INTO mochila (id_treinador) VALUES (31);
+INSERT INTO mochila (id_treinador) VALUES (32);
+INSERT INTO mochila (id_treinador) VALUES (33);
+INSERT INTO mochila (id_treinador) VALUES (34);
+INSERT INTO mochila (id_treinador) VALUES (35);
+INSERT INTO mochila (id_treinador) VALUES (36);
+INSERT INTO mochila (id_treinador) VALUES (37);
+INSERT INTO mochila (id_treinador) VALUES (38);
+INSERT INTO mochila (id_treinador) VALUES (39);
+INSERT INTO mochila (id_treinador) VALUES (40);
+INSERT INTO mochila (id_treinador) VALUES (41);
+INSERT INTO mochila (id_treinador) VALUES (42);
+INSERT INTO mochila (id_treinador) VALUES (43);
+INSERT INTO mochila (id_treinador) VALUES (44);
+INSERT INTO mochila (id_treinador) VALUES (45);
+INSERT INTO mochila (id_treinador) VALUES (46);
+INSERT INTO mochila (id_treinador) VALUES (47);
+INSERT INTO mochila (id_treinador) VALUES (48);
+INSERT INTO mochila (id_treinador) VALUES (49);
+INSERT INTO mochila (id_treinador) VALUES (50);
+INSERT INTO mochila (id_treinador) VALUES (51);
+INSERT INTO mochila (id_treinador) VALUES (52);
+INSERT INTO mochila (id_treinador) VALUES (53);
+INSERT INTO mochila (id_treinador) VALUES (54);
+INSERT INTO mochila (id_treinador) VALUES (55);
+INSERT INTO mochila (id_treinador) VALUES (56);
+INSERT INTO mochila (id_treinador) VALUES (57);
+INSERT INTO mochila (id_treinador) VALUES (58);
+INSERT INTO mochila (id_treinador) VALUES (59);
+INSERT INTO mochila (id_treinador) VALUES (60);
+INSERT INTO mochila (id_treinador) VALUES (61);
+INSERT INTO mochila (id_treinador) VALUES (62);
+INSERT INTO mochila (id_treinador) VALUES (63);
+INSERT INTO mochila (id_treinador) VALUES (64);
+INSERT INTO mochila (id_treinador) VALUES (65);
+INSERT INTO mochila (id_treinador) VALUES (66);
+INSERT INTO mochila (id_treinador) VALUES (67);
+INSERT INTO mochila (id_treinador) VALUES (68);
+INSERT INTO mochila (id_treinador) VALUES (69);
+INSERT INTO mochila (id_treinador) VALUES (70);
+INSERT INTO mochila (id_treinador) VALUES (71);
+INSERT INTO mochila (id_treinador) VALUES (72);
+INSERT INTO mochila (id_treinador) VALUES (73);
+INSERT INTO mochila (id_treinador) VALUES (74);
+INSERT INTO mochila (id_treinador) VALUES (75);
+INSERT INTO mochila (id_treinador) VALUES (76);
+INSERT INTO mochila (id_treinador) VALUES (77);
+INSERT INTO mochila (id_treinador) VALUES (78);
+INSERT INTO mochila (id_treinador) VALUES (79);
+INSERT INTO mochila (id_treinador) VALUES (80);
+INSERT INTO mochila (id_treinador) VALUES (81);
+INSERT INTO mochila (id_treinador) VALUES (82);
+INSERT INTO mochila (id_treinador) VALUES (83);
+INSERT INTO mochila (id_treinador) VALUES (84);
+INSERT INTO mochila (id_treinador) VALUES (85);
+INSERT INTO mochila (id_treinador) VALUES (86);
+INSERT INTO mochila (id_treinador) VALUES (87);
+INSERT INTO mochila (id_treinador) VALUES (88);
+INSERT INTO mochila (id_treinador) VALUES (89);
+INSERT INTO mochila (id_treinador) VALUES (90);
+INSERT INTO mochila (id_treinador) VALUES (91);
+INSERT INTO mochila (id_treinador) VALUES (92);
+INSERT INTO mochila (id_treinador) VALUES (93);
+INSERT INTO mochila (id_treinador) VALUES (94);
+INSERT INTO mochila (id_treinador) VALUES (95);
+INSERT INTO mochila (id_treinador) VALUES (96);
+INSERT INTO mochila (id_treinador) VALUES (97);
+INSERT INTO mochila (id_treinador) VALUES (98);
+INSERT INTO mochila (id_treinador) VALUES (99);
+INSERT INTO mochila (id_treinador) VALUES (100);
+INSERT INTO mochila (id_treinador) VALUES (101);
+INSERT INTO mochila (id_treinador) VALUES (102);
+INSERT INTO mochila (id_treinador) VALUES (103);
+INSERT INTO mochila (id_treinador) VALUES (104);
+INSERT INTO mochila (id_treinador) VALUES (105);
+INSERT INTO mochila (id_treinador) VALUES (106);
+INSERT INTO mochila (id_treinador) VALUES (107);
+INSERT INTO mochila (id_treinador) VALUES (108);
+INSERT INTO mochila (id_treinador) VALUES (109);
+INSERT INTO mochila (id_treinador) VALUES (110);
+INSERT INTO mochila (id_treinador) VALUES (111);
+INSERT INTO mochila (id_treinador) VALUES (112);
+INSERT INTO mochila (id_treinador) VALUES (113);
+INSERT INTO mochila (id_treinador) VALUES (114);
+INSERT INTO mochila (id_treinador) VALUES (115);
+INSERT INTO mochila (id_treinador) VALUES (116);
+INSERT INTO mochila (id_treinador) VALUES (117);
+INSERT INTO mochila (id_treinador) VALUES (118);
+INSERT INTO mochila (id_treinador) VALUES (119);
+INSERT INTO mochila (id_treinador) VALUES (120);
+INSERT INTO mochila (id_treinador) VALUES (121);
+INSERT INTO mochila (id_treinador) VALUES (122);
+INSERT INTO mochila (id_treinador) VALUES (123);
+INSERT INTO mochila (id_treinador) VALUES (124);
+INSERT INTO mochila (id_treinador) VALUES (125);
+INSERT INTO mochila (id_treinador) VALUES (126);
+INSERT INTO mochila (id_treinador) VALUES (127);
+INSERT INTO mochila (id_treinador) VALUES (128);
+INSERT INTO mochila (id_treinador) VALUES (129);
+INSERT INTO mochila (id_treinador) VALUES (130);
+INSERT INTO mochila (id_treinador) VALUES (131);
+INSERT INTO mochila (id_treinador) VALUES (132);
+INSERT INTO mochila (id_treinador) VALUES (133);
+INSERT INTO mochila (id_treinador) VALUES (134);
+INSERT INTO mochila (id_treinador) VALUES (135);
+INSERT INTO mochila (id_treinador) VALUES (136);
+INSERT INTO mochila (id_treinador) VALUES (137);
+INSERT INTO mochila (id_treinador) VALUES (138);
+INSERT INTO mochila (id_treinador) VALUES (139);
+INSERT INTO mochila (id_treinador) VALUES (140);
+INSERT INTO mochila (id_treinador) VALUES (141);
+INSERT INTO mochila (id_treinador) VALUES (142);
+INSERT INTO mochila (id_treinador) VALUES (143);
+INSERT INTO mochila (id_treinador) VALUES (144);
+INSERT INTO mochila (id_treinador) VALUES (145);
+INSERT INTO mochila (id_treinador) VALUES (146);
+INSERT INTO mochila (id_treinador) VALUES (147);
+INSERT INTO mochila (id_treinador) VALUES (148);
+INSERT INTO mochila (id_treinador) VALUES (149);
+INSERT INTO mochila (id_treinador) VALUES (150);
+INSERT INTO mochila (id_treinador) VALUES (151);
+INSERT INTO mochila (id_treinador) VALUES (152);
+INSERT INTO mochila (id_treinador) VALUES (153);
+INSERT INTO mochila (id_treinador) VALUES (154);
+INSERT INTO mochila (id_treinador) VALUES (155);
+INSERT INTO mochila (id_treinador) VALUES (156);
+INSERT INTO mochila (id_treinador) VALUES (157);
+INSERT INTO mochila (id_treinador) VALUES (158);
+INSERT INTO mochila (id_treinador) VALUES (159);
+INSERT INTO mochila (id_treinador) VALUES (160);
+INSERT INTO mochila (id_treinador) VALUES (161);
+INSERT INTO mochila (id_treinador) VALUES (162);
+INSERT INTO mochila (id_treinador) VALUES (163);
+INSERT INTO mochila (id_treinador) VALUES (164);
+INSERT INTO mochila (id_treinador) VALUES (165);
+INSERT INTO mochila (id_treinador) VALUES (166);
+INSERT INTO mochila (id_treinador) VALUES (167);
+INSERT INTO mochila (id_treinador) VALUES (168);
+INSERT INTO mochila (id_treinador) VALUES (169);
+INSERT INTO mochila (id_treinador) VALUES (170);
+INSERT INTO mochila (id_treinador) VALUES (171);
+INSERT INTO mochila (id_treinador) VALUES (172);
+INSERT INTO mochila (id_treinador) VALUES (173);
+INSERT INTO mochila (id_treinador) VALUES (174);
+INSERT INTO mochila (id_treinador) VALUES (175);
+INSERT INTO mochila (id_treinador) VALUES (176);
+INSERT INTO mochila (id_treinador) VALUES (177);
+INSERT INTO mochila (id_treinador) VALUES (178);
+INSERT INTO mochila (id_treinador) VALUES (179);
+INSERT INTO mochila (id_treinador) VALUES (180);
+INSERT INTO mochila (id_treinador) VALUES (181);
+INSERT INTO mochila (id_treinador) VALUES (182);
+INSERT INTO mochila (id_treinador) VALUES (183);
+INSERT INTO mochila (id_treinador) VALUES (184);
+INSERT INTO mochila (id_treinador) VALUES (185);
+INSERT INTO mochila (id_treinador) VALUES (186);
+INSERT INTO mochila (id_treinador) VALUES (187);
+INSERT INTO mochila (id_treinador) VALUES (188);
+INSERT INTO mochila (id_treinador) VALUES (189);
+INSERT INTO mochila (id_treinador) VALUES (190);
+INSERT INTO mochila (id_treinador) VALUES (191);
+INSERT INTO mochila (id_treinador) VALUES (192);
+INSERT INTO mochila (id_treinador) VALUES (193);
+INSERT INTO mochila (id_treinador) VALUES (194);
+INSERT INTO mochila (id_treinador) VALUES (195);
+INSERT INTO mochila (id_treinador) VALUES (196);
+INSERT INTO mochila (id_treinador) VALUES (197);
+INSERT INTO mochila (id_treinador) VALUES (198);
+INSERT INTO mochila (id_treinador) VALUES (199);
+INSERT INTO mochila (id_treinador) VALUES (200);
+INSERT INTO mochila (id_treinador) VALUES (201);
+INSERT INTO mochila (id_treinador) VALUES (202);
+INSERT INTO mochila (id_treinador) VALUES (203);
+INSERT INTO mochila (id_treinador) VALUES (204);
+INSERT INTO mochila (id_treinador) VALUES (205);
+INSERT INTO mochila (id_treinador) VALUES (206);
+INSERT INTO mochila (id_treinador) VALUES (207);
+INSERT INTO mochila (id_treinador) VALUES (208);
+INSERT INTO mochila (id_treinador) VALUES (209);
+INSERT INTO mochila (id_treinador) VALUES (210);
+INSERT INTO mochila (id_treinador) VALUES (211);
+INSERT INTO mochila (id_treinador) VALUES (212);
+INSERT INTO mochila (id_treinador) VALUES (213);
+INSERT INTO mochila (id_treinador) VALUES (214);
+INSERT INTO mochila (id_treinador) VALUES (215);
+INSERT INTO mochila (id_treinador) VALUES (216);
+INSERT INTO mochila (id_treinador) VALUES (217);
+INSERT INTO mochila (id_treinador) VALUES (218);
+INSERT INTO mochila (id_treinador) VALUES (219);
+INSERT INTO mochila (id_treinador) VALUES (220);
+INSERT INTO mochila (id_treinador) VALUES (221);
+INSERT INTO mochila (id_treinador) VALUES (222);
+INSERT INTO mochila (id_treinador) VALUES (223);
+INSERT INTO mochila (id_treinador) VALUES (224);
+INSERT INTO mochila (id_treinador) VALUES (225);
+INSERT INTO mochila (id_treinador) VALUES (226);
+INSERT INTO mochila (id_treinador) VALUES (227);
+INSERT INTO mochila (id_treinador) VALUES (228);
+INSERT INTO mochila (id_treinador) VALUES (229);
+INSERT INTO mochila (id_treinador) VALUES (230);
+INSERT INTO mochila (id_treinador) VALUES (231);
+INSERT INTO mochila (id_treinador) VALUES (232);
+INSERT INTO mochila (id_treinador) VALUES (233);
+INSERT INTO mochila (id_treinador) VALUES (234);
+INSERT INTO mochila (id_treinador) VALUES (235);
+INSERT INTO mochila (id_treinador) VALUES (236);
+INSERT INTO mochila (id_treinador) VALUES (237);
+INSERT INTO mochila (id_treinador) VALUES (238);
+INSERT INTO mochila (id_treinador) VALUES (239);
+INSERT INTO mochila (id_treinador) VALUES (240);
+INSERT INTO mochila (id_treinador) VALUES (241);
+INSERT INTO mochila (id_treinador) VALUES (242);
+INSERT INTO mochila (id_treinador) VALUES (243);
+INSERT INTO mochila (id_treinador) VALUES (244);
+INSERT INTO mochila (id_treinador) VALUES (245);
+INSERT INTO mochila (id_treinador) VALUES (246);
+INSERT INTO mochila (id_treinador) VALUES (247);
+INSERT INTO mochila (id_treinador) VALUES (248);
+INSERT INTO mochila (id_treinador) VALUES (249);
+INSERT INTO mochila (id_treinador) VALUES (250);
+INSERT INTO mochila (id_treinador) VALUES (251);
+INSERT INTO mochila (id_treinador) VALUES (252);
+INSERT INTO mochila (id_treinador) VALUES (253);
+INSERT INTO mochila (id_treinador) VALUES (254);
+INSERT INTO mochila (id_treinador) VALUES (255);
+INSERT INTO mochila (id_treinador) VALUES (256);
+INSERT INTO mochila (id_treinador) VALUES (257);
+INSERT INTO mochila (id_treinador) VALUES (258);
+INSERT INTO mochila (id_treinador) VALUES (259);
+INSERT INTO mochila (id_treinador) VALUES (260);
+INSERT INTO mochila (id_treinador) VALUES (261);
+INSERT INTO mochila (id_treinador) VALUES (262);
+INSERT INTO mochila (id_treinador) VALUES (263);
+INSERT INTO mochila (id_treinador) VALUES (264);
+INSERT INTO mochila (id_treinador) VALUES (265);
+INSERT INTO mochila (id_treinador) VALUES (266);
+INSERT INTO mochila (id_treinador) VALUES (267);
+INSERT INTO mochila (id_treinador) VALUES (268);
+INSERT INTO mochila (id_treinador) VALUES (269);
+INSERT INTO mochila (id_treinador) VALUES (270);
+INSERT INTO mochila (id_treinador) VALUES (271);
+INSERT INTO mochila (id_treinador) VALUES (272);
+INSERT INTO mochila (id_treinador) VALUES (273);
+INSERT INTO mochila (id_treinador) VALUES (274);
+INSERT INTO mochila (id_treinador) VALUES (275);
+INSERT INTO mochila (id_treinador) VALUES (276);
+INSERT INTO mochila (id_treinador) VALUES (277);
+INSERT INTO mochila (id_treinador) VALUES (278);
+INSERT INTO mochila (id_treinador) VALUES (279);
+INSERT INTO mochila (id_treinador) VALUES (280);
+INSERT INTO mochila (id_treinador) VALUES (281);
+INSERT INTO mochila (id_treinador) VALUES (282);
+INSERT INTO mochila (id_treinador) VALUES (283);
+INSERT INTO mochila (id_treinador) VALUES (284);
+INSERT INTO mochila (id_treinador) VALUES (285);
+INSERT INTO mochila (id_treinador) VALUES (286);
+INSERT INTO mochila (id_treinador) VALUES (287);
+INSERT INTO mochila (id_treinador) VALUES (288);
+INSERT INTO mochila (id_treinador) VALUES (289);
+INSERT INTO mochila (id_treinador) VALUES (290);
+INSERT INTO mochila (id_treinador) VALUES (291);
+INSERT INTO mochila (id_treinador) VALUES (292);
+INSERT INTO mochila (id_treinador) VALUES (293);
+INSERT INTO mochila (id_treinador) VALUES (294);
+INSERT INTO mochila (id_treinador) VALUES (295);
+INSERT INTO mochila (id_treinador) VALUES (296);
+INSERT INTO mochila (id_treinador) VALUES (297);
+INSERT INTO mochila (id_treinador) VALUES (298);
+INSERT INTO mochila (id_treinador) VALUES (299);
+INSERT INTO mochila (id_treinador) VALUES (300);
+INSERT INTO mochila (id_treinador) VALUES (301);
+INSERT INTO mochila (id_treinador) VALUES (302);
+INSERT INTO mochila (id_treinador) VALUES (303);
+INSERT INTO mochila (id_treinador) VALUES (304);
+INSERT INTO mochila (id_treinador) VALUES (305);
+INSERT INTO mochila (id_treinador) VALUES (306);
+INSERT INTO mochila (id_treinador) VALUES (307);
+INSERT INTO mochila (id_treinador) VALUES (308);
+INSERT INTO mochila (id_treinador) VALUES (309);
+INSERT INTO mochila (id_treinador) VALUES (310);
+INSERT INTO mochila (id_treinador) VALUES (311);
+INSERT INTO mochila (id_treinador) VALUES (312);
+INSERT INTO mochila (id_treinador) VALUES (313);
+INSERT INTO mochila (id_treinador) VALUES (314);
+INSERT INTO mochila (id_treinador) VALUES (315);
+INSERT INTO mochila (id_treinador) VALUES (316);
+INSERT INTO mochila (id_treinador) VALUES (317);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/max-repel.png','Repel',223,' Previne que pokémons selvagens apareçam por 100 passos',81);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/super-potion.png','Super Repel',154,' Previne que pokémons selvagens apareçam por 200 passos',88);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Repel',124,' Previne que pokémons selvagens apareçam por 250 passos',57);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/escape-rope.png','Escape Rope',128,' Faz você escapar de uma caverna',62);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/smoke-ball.png','Smoke Ball',106,' Escapa de pokémons selvagens sem falhar',39);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/fluffy-tail.png','Fluffy Tail',192,' Brinquedo para distrair um pokémon selvagem e garantir que você escape da batalha (rabo de Skitty)',30);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/blue.png','Blue Flute',288,' Acorda um pokémon que esteja dormindo',59);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sacred-ash.png','Red Flute',144,' Rompe a condição de estado apaixonado (Attract)',19);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/other-item/yellow-nectar.png','Yellow Flute',245,' Cura um pokémon que esteja confuso',95);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Flute',69,' Reduz as chances de encontrar pokémons selvagens (ou aumenta o nível dos pokémons selvagens)',38);
+INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/white.png','White Flute',93,' Aumenta as chances de encontrar pokémons selvagens (ou reduz o nível dos pokémons selvagens)',96);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Potion',39,' Recupera 20 HP',23);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/super-potion.png','Super Potion',296,' Recupera 60 HP',96);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Hyper Potion',167,' Recupera 120 HP',62);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Potion',27,' Recupera todo o HP',64);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/full-heal.png','Full Restore',217,' Recupera todo o HP e retira todas as condições de estado',78);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/burn-heal.png','Burn Heal',305,' Remove a condição "queimado" de seu pokémon (status burn)',29);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/berry-juice.png','Ice Heal',260,' Descongela seu pokémon (status frozen)',51);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Parlyz Heal',303,' Retira a paralização de seu pokémon (status parlyz)',83);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/awakening.png','Awakening',187,' Acorda seu pokémon que estiver dormindo (status sleep)',16);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/antidote.png','Antidote',215,' Cura seu pokémon que estiver envenenado (status poison)',86);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/full-heal.png','Full Heal',190,' Cura qualquer um dos problemas de estado',55);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/full-heal.png','Full Restore',51,' Recupera todo o HP e retira todas as condições de estado',86);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/ether.png','Ether',79,' Recupera 10 PP de um golpe',87);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Ether',40,' Recupera todo PP de um golpe',77);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/elixir.png','Elixir',232,' Recupera 10 PP de todos os golpes',21);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Elixir',200,' Recupera todo PP de todos os golpes',35);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-revive.png','Revive',277,' Recupera um pokémon derrotado e o deixa com metade de HP',37);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png','Max Revive',154,' Recupera um pokémon derrotado e o deixa com HP no máximo',62);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sacred-ash.png','Sacred Ash',175,' Recupera toda o HP e todas as condições (inclusive derrotado) de toda a sua equipe',93);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/rare-candy.png','Rare Candy',102,' Aumenta 1 Level do seu pokémon',13);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sweet-heart.png','Sweet Heart',20,' Recupera 20 HP',74);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/rage-candy-bar.png','Rage Candy Bar',295,' Recupera 20 HP',13);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lava-cookie.png','Lava Cookie',24,' Cura qualquer um dos problemas de estado',76);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/old-gateau.png','Old Gateau',125,' Cura qualquer um dos problemas de estado',40);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Casteliaone',124,' Cura qualquer um dos problemas de estado',52);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lumiose-galette.png','Lumiose Galette',242,' Cura qualquer um dos problemas de estado',44);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/shalour-sable.png','Shalour Sable',245,' Cura qualquer um dos problemas de estado',55);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/big-malasada.png','Big Malasada',25,' Cura qualquer um dos problemas de estado',57);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/berry-juice.png','Berry Juice',105,' Recupera 20 HP e aumenta a felicidade',89);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/fresh-water.png','Fresh Water',225,' Recupera 30 HP e aumenta a felicidade',68);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/soda-pop.png','Soda Pop',167,' Recupera 50 HP e aumenta a felicidade',99);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lemonade.png','Lemonade',9,' Recupera 70 HP e aumenta a felicidade',74);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/moomoo-milk.png','Moomoo Milk',156,' Recupera 100 HP e aumenta a felicidade',37);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/energy-powder.png','Energy Powder',11,' Recupera 50 HP',44);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/energy-powder.png','Energy Root',287,' Recupera 200 HP',8);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/heal.png','Heal Powder',142,' Cura qualquer um dos problemas de estado',92);
+INSERT INTO medicinal (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/revival-herb.png','Revival Herb',225,' Recupera um pokémon derrotado e o deixa com HP no máximo',45);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/cherish.png','Cheri Berry',176,'Cura o usuário de paralisia',74);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/chesto.png','Chesto Berry',160,'Cura o usuário de Sono',32);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/pecha.png','Pecha Berry',301,'Cura o usuário de Veneno',34);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/aspear.png','Aspear Berry',194,'Cura o usuário de congelamento',36);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/leppa.png','Leppa Berry',275,'Cura 400 de SP quando o usuário fica abaixo de 20% de SP',74);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/figy.png','Figy Berry',120,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde STR)',54);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/wiki.png','Wiki Berry',289,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde INT)',93);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/mago.png','Mago Berry',80,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde AGI)',62);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/aguav.png','Aguav Berry',101,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde RES)',27);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/iapapa.png','Iapapa Berry',165,'Cura 50% de HP quando o HP fica abaixo de 25% (causa confusão em Pokémon cuja nature perde DEF)',71);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/occa.png','Occa Berry',100,'Reduz dano de golpe recebido do tipo FIRE em 50%',73);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/key-item/pass.png','Passho Berry',265,'Reduz dano de golpe recebido do tipo WATER em 50%',96);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/wacan.png','Wacan Berry',234,'Reduz dano de golpe recebido do tipo ELETRIC em 50%',44);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/rindo.png','Rindo Berry',210,'Reduz dano de golpe recebido do tipo GRASS em 50%',39);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/yache.png','Yache Berry',274,'Reduz dano de golpe recebido do tipo ICE em 50%',76);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/chople.png','Chople Berry',225,'Reduz dano de golpe recebido do tipo FIGHTING em 50%',90);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/kebia.png','Kebia Berry',37,'Reduz dano de golpe recebido do tipo POISON em 50%',31);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/shuca.png','Shuca Berry',211,'Reduz dano de golpe recebido do tipo GROUND em 50%',66);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/coba.png','Coba Berry',132,'Reduz dano de golpe recebido do tipo FLYING em 50%',67);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/payapa.png','Payapa Berry',198,'Reduz dano de golpe recebido do tipo PSYCHIC em 50%',75);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/tanga.png','Tanga Berry',169,'Reduz dano de golpe recebido do tipo BUG em 50%',64);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/charti.png','Charti Berry',4,'Reduz dano de golpe recebido do tipo ROCK em 50%',34);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/kasib.png','Kasib Berry',297,'Reduz dano de golpe recebido do tipo GHOST em 50%',3);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/haban.png','Haban Berry',285,'Reduz dano de golpe recebido do tipo DRAGON em 50%',64);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/colbur.png','Colbur Berry',50,'Reduz dano de golpe recebido do tipo DARK em 50%',94);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/babiri.png','Babiri Berry',17,'Reduz dano de golpe recebido do tipo STEEL em 50%',80);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/chilan.png','Chilan Berry',93,'Reduz dano de golpe recebido do tipo NORMAL em 50%',70);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/roseli.png','Roseli Berry',122,'Reduz dano de golpe recebido do tipo Fairy em 50%',43);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/liechi.png','Liechi Berry',49,'Aumenta ATK quando o HP está abaixo de 25%',67);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/ganlon.png','Ganlon Berry',129,'Aumenta DEF quando o HP está abaixo de 25%',52);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/salac.png','Salac Berry',30,'Aumenta SPEED quando o HP está abaixo de 25%',55);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/petaya.png','Petaya Berry',105,'Aumenta SP ATK quando o HP está abaixo de 25%',23);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/apicot.png','Apicot Berry',290,'Aumenta SP DEF quando o HP está abaixo de 25%',41);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/lansat.png','Lansat Berry',228,'Aumenta CRI quando o HP está abaixo de 25%',67);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/starf.png','Starf Berry',291,'Aumenta muito um status aleatório quando o HP está abaixo de 25%',1);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/micle.png','Micle Berry',24,'Aumenta ACC quando o HP está abaixo de 25%',24);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/custap.png','Custap Berry',230,'Faz o próximo Move carregar mais rápido quando o HP está abaixo de 25%',32);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/jaboca.png','Jaboca Berry',246,'O pokémon que atacar o usuário com um golpe físico recebera 1/8 do MAXHP de dano',26);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/rowap.png','Rowap Berry',141,'O pokémon que atacar o usuário com um golpe especial recebera 1/8 do MAXHP de dano',41);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/kee.png','Kee Berry',295,'Aumenta a DEF se o usuário é atingido por um golpe físico',48);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/maranga.png','Maranga Berry',7,'Aumenta a SP. DEF se o usuário é atingido por um golpe especial',9);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/mail/orange-mail.png','Oran Berry',34,'Cura 750 de HP quando o HP está abaixo de 50%',38);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/persim.png','Persim Berry',311,'Cura o usuário de Confusão',60);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/lumiose-galette.png','Lum Berry',154,'Cura o usuário de qualquer major Status',66);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/sitrus.png','Sitrus Berry',90,'Cura 25% de HP quando o HP está abaixo de 50%',32);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/berry/rawst.png','Rawst Berry',25,'Cura o usuário de Burn',92);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/scope-lens.png','Scope Lens',65,'Aumenta a chance de Critical do usuário em um estágio',19);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/bright-powder.png','Bright Powder',200,'Aumenta a Evasão (EVAS) em 10%',73);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/throat-spray.png','Throat Spray',300,'Aumenta o Sp.ATK quando usar um golpe de categoria de Som (sound-based)',27);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/battle-item/max-mushrooms.png','Room Service',174,'Quando afetado por Trick-Room',75);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/misty-seed.png','Misty Seed',59,'Ao ser afetado por Misty Terrain aumenta a SP.Def do usuário',47);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/adrenaline-orb.png','Adrenaline Orb',267,'Ao ser afetado por Intimidate aumenta a SPEED do usuário',73);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/twisted-spoon.png','Twisted Spoon',315,'Aumenta o dano dos golpes do tipo Psychic em 20%',47);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/spell-tag.png','Spell Tag',227,'Aumenta o dano dos golpes do tipo Ghost em 20%',87);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/sharp-beak.png','Sharp Beak',305,'Aumenta o dano dos golpes do tipo Flying em 20%',80);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Never-Melt Ice',265,'Aumenta o dano dos golpes do tipo Ice em 20%',64);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/zoom-lens.png','Zoom Lens',301,'Aumenta a ACC em 20% ao usar um golpe se o alvo não estiver carregando (cast) um golpe.',91);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/quick.png','Quick Powder',168,'Aumenta consideravelmente a SPEED do Ditto',12);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/stick.png','Stick',244,'Aumenta a chance de Critical do Farfetchd em dois estágios',0);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/lagging-tail.png','Lagging Tail',166,'Aumenta o tempo de carregamento (cast) ao usar um golpe',87);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/iron.png','Iron Ball',33,'Reduz muito a SPEED',33);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/deep-sea-scale.png','Deep Sea Tooth',246,'Dobra o SP.ATK do Clamperl',48);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/deep-sea-scale.png','Deep Sea Scale',186,'Dobra a SP.DEF do Clamperl',92);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/normal.png','Normal Gem',82,'Aumenta o poder do golpe do tipo Normal em 50%',74);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/fresh-water.png','Water Gem',17,'Aumenta o poder do golpe do tipo Water em 50%',36);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/ground.png','Ground Gem',178,'Aumenta o poder do golpe do tipo Ground em 50%',30);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/fire-stone.png','Fire Gem',181,'Aumenta o poder do golpe do tipo Fire em 50%',57);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/electric-seed.png','Electric Gem',306,'Aumenta o poder do golpe do tipo Electric em 50%',27);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/poison-barb.png','Poison Gem',286,'Aumenta o poder do golpe do tipo Poison em 50%',4);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/psychic-seed.png','Psychic Gem',194,'Aumenta o poder do golpe do tipo Psychic em 50%',34);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/flying.png','Flying Gem',306,'Aumenta o poder do golpe do tipo Flying em 50%',5);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/ghost.png','Ghost Gem',149,'Aumenta o poder do golpe do tipo Ghost em 50%',60);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/fighting.png','Fighting Gem',61,'Aumenta o poder do golpe do tipo Fighting em 50%',51);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/kings-rock.png','Rock Gem',97,'Aumenta o poder do golpe do tipo Rock em 50%',85);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/bug.png','Bug Gem',163,'Aumenta o poder do golpe do tipo Bug em 50%',0);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/grassy-seed.png','Grass Gem',186,'Aumenta o poder do golpe do tipo Grass em 50%',96);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/berry-juice.png','Ice Gem',305,'Aumenta o poder do golpe do tipo Ice em 50%',73);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/dragon-scale.png','Dragon Gem',111,'Aumenta o poder do golpe do tipo Dragon em 50%',82);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/mail/steel-mail.png','Steel Gem',210,'Aumenta o poder do golpe do tipo Steel em 50%',11);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/key-item/dark-stone.png','Dark Gem',264,'Aumenta o poder do golpe do tipo Dark em 50%',15);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/tm/fairy.png','Fairy Gem',320,'Aumenta o poder do golpe do tipo Fairy em 50%',80);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/pearl-string.png','Ring Target',64,'O usuário perderá sua imunidade a golpes',4);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/float-stone.png','Float Stone',194,'Reduz o peso do Pokémon pela metade',83);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/thick-club.png','Thick Club',110,'Dobra o ATK do Cubone e Marowak',18);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/eviolite.png','Eviolite',51,'Aumenta a DEF e SP.DEF em 50% se o usuário não for totalmente evoluído',52);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/focus-band.png','Focus Sash',77,'Se o Pokémon estiver com o HP cheio e for atingido por um move que o derrotaria',4);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/choice-band.png','Choice Band',7,'Aumenta o ATK em 50%',3);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/choice-band.png','Choice Scarf',272,'Aumenta a SPEED em 50% mas o usuário só poderá usar o primeiro move selecionado',4);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/choice-band.png','Choice Specs',153,'Aumenta o SP.ATK em 50% mas o usuário só poderá usar o primeiro move selecionado',70);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/leftovers.png','Leftovers',173,'Restaura gradualmente o HP do Pokémon (1/16 MAX HP)',72);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/rocky-helmet.png','Rocky Helmet',176,'Se o usuário for atingido por um golpe de contato o atacante receberá dano (1/16 MAX HP)',75);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/air-balloon.png','Air Balloon',118,'Faz o usuário levitar (sendo imune a danos de Ground, Toxic Spikes e Spikes) até receber um golpe',57);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Sludge',93,'Restaura gradualmente o HP do Pokémon do tipo Poison (1/16 MAX HP). Causa dano a Pokémon de outros tipos',4);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/light-ball.png','Light Ball',35,'Dobra o ATK e SP.ATK do Pikachu',49);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/light-ball.png','Light Clay',248,'Barreira protetivas como Light Screen e Reflect durarão mais',35);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/mulch/damp.png','Damp Rock',116,'Aumenta a duração do Rain Dance do usuário',94);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/assault-vest.png','Assault Vest',191,'Aumenta a SP.DEF do usuário em 50% mas prefine moves de status',79);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/life-orb.png','Life Orb',184,'Moves de ataques causam 30% mais de dano porém o usuário perderá 10% do HP a cada uso',44);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/metronome.png','Metronome',215,'Aumenta o power de moves usados consecutivamente em 20% até o máximo de 100%',11);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/bright-powder.png','Bright Powder',211,'Aumenta a Evasão (EVAS) em 10%',14);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/sacred-ash.png','Red Card',276,'Força o adversário a trocar o Pokémon se o usuário for atingido por um golpe',67);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/safety-goggles.png','Safety Goggles',94,'Protege o usuário de danos de clima e moves Powder e Spore (Poison Powder, Stun Powder, Spore, Cotton Spore e Sleep Powder)',5);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/smoke-ball.png','Smoke Ball',38,'Permite ao usuário ignorar Pokémon selvagem de level baixo',60);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/toxic-orb.png','Toxic Orb',50,'Deixa o usuário Intensamente Envenenado (Badly Poison)',62);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/flame-orb.png','Flame Orb',22,'Deixa o usuário em chamas (Burn)',34);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/quick.png','Quick Claw',8,'Dá ao usuário 20% de chance de reduzir o carregamento (cast) dos golpes',7);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/heat-rock.png','Heat Rock',237,'Aumenta a duração do Sunny Day do usuário',18);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/big-malasada.png','Big Root',178,'Aumenta em 30% o HP recuperado por moves de drenagem',79);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/wise-glasses.png','Wise Glasses',197,'Aumenta o SP.ATK do usuário em 10%',81);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/focus-band.png','Focus Band',154,'Se for atingido por um move que o derrotaria tem 10% de chance de permanecer com 1 de HP',21);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Signal Amplifier',168,'Aumenta a área de efeito dos golpes em área e solo',52);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/weakness-policy.png','Weakness Policy',76,'Ao ser atingido por um golpe super efetivo aumenta o ATK e SP.ATK drasticamente',8);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/eject-button.png','Eject Button',124,'Se o usuário é atingido por um golpe ele é retirado da batalha',22);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/destiny-knot.png','Destiny Knot',6,'Se o usuário fica apaixonado (Infatuated) o oponente também ficará',73);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/stick.png','Sticky Barb',209,'Causa dano ao usuário a cada turno',22);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/scope-lens.png','Scope Lens',243,'Aumenta a chance de Critical (CRI) do usuário em um estágio',22);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/grip-claw.png','Grip Claw',149,'Aumenta a duração de moves de prisão (partial-trap) para 7 turnos',34);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/blunder-policy.png','Icy Rock',59,'Aumenta a duração do Hail do usuário',33);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/smooth-rock.png','Smooth Rock',216,'Aumenta a duração do Sandstorm do usuário',85);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/mental-herb.png','Mental Herb',198,' Remove Infatuation',59);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/power-herb.png','Power Herb',216,'Permite ao usuário usar normalmente moves que precisam de um turno para carregar (cast)',65);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/white.png','White Herb',218,'Remove mudanças negativas nos estágios',97);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/binding-band.png','Binding Band',75,'Aumenta para 1/16 do MAX HP a drenagem de HP dos moves de Binding (partial-trap)',9);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/wide-lens.png','Wide Lens',29,'Aumenta a accuracy (ACC) do usuário em 10%',59);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/muscle-wing.png','Muscle Band',317,'Aumenta o ATK do usuário em 10%',48);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/protective-pads.png','Protective Pads',177,'Aumenta o usuário de dano adicional de moves que fazem contato',44);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/l.png','Laser Sight',20,'Aumenta o alcance (Range) dos moves do usuário',18);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/terrain-extender.png','Terrain Extender',62,'Terrenos causados por moves ou ability durarão mais',80);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/absorb-bulb.png','Absorb Bulb',86,'Ao ser atingido por um move do tipo água (Water) aumenta o SP.ATK',38);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/cell-battery.png','Cell Battery',19,'Ao ser atingido por um move do tipo elétrico (Electric) aumenta o ATK',51);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/snowball.png','Snow Ball',238,'Ao ser atingido por um move do tipo gelo (Ice) aumenta o ATK',92);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/luminous-moss.png','Luminous Moss',304,'Ao ser atingido por um move do tipo água (Water) aumenta o SP.DEF',8);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/utility-umbrella.png','Utility Umbrella',287,'Faz o Pokémon não ser afetado por efeito de clima',8);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/blunder-policy.png','Blunder Policy',161,'Ao falhar um golpe em uma checagem de ACC ou EVAS aumenta drasticamente a SPEED',47);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/eject-button.png','Eject Pack',312,'Ao ter um status reduzido o Pokémon é retirado da batalha',55);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/silk-scarf.png','Silk Scarf',1,'Aumenta o dano de golpe do tipo Normal em 20%',69);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/mystic-water.png','Mystic Water',57,'Aumenta o dano de golpe do tipo Water em 20%',94);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/soft-sand.png','Soft Sand',191,'Aumenta o dano de golpe do tipo Ground em 20%',8);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/charcoal.png','Charcoal',109,'Aumenta o dano de golpe do tipo Fire em 20%',32);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/net.png','Magnet',132,'Aumenta o dano de golpe do tipo Electric em 20%',62);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/poison-barb.png','Poison Barb',272,'Aumenta o dano de golpe do tipo Poison em 20%',11);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/twisted-spoon.png','Twisted Spoon',157,'Aumenta o dano de golpe do tipo Psychic em 20%',15);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/sharp-beak.png','Sharp Beak',31,'Aumenta o dano de golpe do tipo Flying em 20%',4);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/spell-tag.png','Spell Tag',210,'Aumenta o dano de golpe do tipo Ghost em 20%',61);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Belt',49,'Aumenta o dano de golpe do tipo Fighting em 20%',65);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/comet-shard.png','Hard Stone',82,'Aumenta o dano de golpe do tipo Rock em 20%',40);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/relic-silver.png','Silver Powder',290,'Aumenta o dano de golpe do tipo Bug em 20%',75);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/miracle-seed.png','Miracle Seed',78,'Aumenta o dano de golpe do tipo Grass em 20%',69);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/dragon-scale.png','Dragon Fang',192,'Aumenta o dano de golpe do tipo Dragon em 20%',23);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/flute/black.png','Black Glasses',127,'Aumenta o dano de golpe do tipo Dark em 20%',33);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/zoom-lens.png','Zoom Lens',135,'Aumenta a Accuracy (ACC) EM 20% ao usar um golpe se o adversário não estiver carregando (cast) um golpe',49);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/evo-item/metal-coat.png','Metal Disc',296,'Aumenta o dano de golpe do tipo Steel em 20%',18);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/valuable-item/shoal-shell.png','Shell Bell',315,'Toda a vez que o Pokémon causar dano com um move ele restaura 1/8 do dano causado',91);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/heavy.png','Heavy-Duty Boots',18,'Fazem o Pokémom não ser afetado por Entry Hazard (como Spikes, Toxic Spikes e Stealth Rock)',28);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/m.png','Venom Fang',174,'Aumenta SPEED e SP.ATK do Seviper em 50%. Aumenta ATK do Seviper em 30%',91);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/ball/fast.png','Fast Battery',308,'Dobra SPEED do Tynamo',5);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/m.png','Adamantium Fang',289,'Dobra SPEED do Rattata',79);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/exp-candy/s.png','Frost Note',196,'Aumenta o ATK do Lapras em 100%. Reduz dano do tipo Fighting (lutador) em 20%',11);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/cleanse-tag.png','Cleanse Tag',226,' Reduz as chances de encontrar pokémons selvagens mais fracos que o primeiro pokémon da sua equipe',10);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-honey.png','Honey',142,' Usado para atrair pokémons selvagens',25);
+INSERT INTO seguravel (url,nome,id_mochila,descricao,quantidade) 
+                                VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/hold-item/adrenaline-orb.png','Adrenaline Orb',174,' Ao ser afetado por Intimidate aumenta a SPEED do usuário',11);
 INSERT INTO equipe (id_Treinador) VALUES (1);
 INSERT INTO equipe (id_Treinador) VALUES (2);
 INSERT INTO equipe (id_Treinador) VALUES (3);

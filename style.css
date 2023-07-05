@@ -266,6 +266,7 @@ tr:hover {
 
 .treinador{
   font-size: 30px;
+  margin: 10px 10px;
 }
 
 .poke-treinador{
@@ -280,4 +281,16 @@ tr:hover {
   margin: 10px 20%;
   display: grid;
   grid-template-columns: repeat(3, auto);
+}
+
+.img-item{
+  height: 60px;
+}
+.itens-treinador{
+  text-align: center;
+}
+.itens-mochila{
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }

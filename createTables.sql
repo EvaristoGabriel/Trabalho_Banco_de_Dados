@@ -20,37 +20,6 @@ CREATE TABLE insignia(
     Nome VARCHAR(50) NOT NULL UNIQUE
 );
 
-CREATE TABLE mochila(
-    id SERIAL PRIMARY KEY
-);
-
-CREATE TABLE utilitario(
-    id SERIAL PRIMARY KEY,
-    url VARCHAR(255) NOT NULL,
-    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
-    Nome VARCHAR(20) NOT NULL,
-    Descricao VARCHAR(200) NOT NULL,
-    Quantidade INTEGER 
-);
-
-CREATE TABLE seguravel(
-    id SERIAL PRIMARY KEY,
-    url VARCHAR(255) NOT NULL,
-    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
-    Nome VARCHAR(20) NOT NULL,
-    Descricao VARCHAR(200) NOT NULL,
-    Quantidade INTEGER
-);
-
-CREATE TABLE medicinal(
-    id SERIAL PRIMARY KEY,
-    url VARCHAR(255) NOT NULL,
-    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
-    Nome VARCHAR(20) NOT NULL,
-    Descricao VARCHAR(200) NOT NULL,
-    Quantidade INTEGER
-);
-
 CREATE TABLE habilidade(
     id SERIAL PRIMARY KEY,
     Nome VARCHAR(50) NOT NULL UNIQUE,
@@ -99,9 +68,40 @@ CREATE TABLE treinador(
     url VARCHAR(255) NOT NULL,
     id SERIAL PRIMARY KEY,
     nome VARCHAR(50) NOT NULL,
-    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
     id_Cidade VARCHAR(50) NOT NULL REFERENCES cidade(nome),
     id_Classe VARCHAR(50) REFERENCES classe(nome)
+);
+
+CREATE TABLE mochila(
+    id SERIAL PRIMARY KEY,
+    id_Treinador INTEGER NOT NULL REFERENCES treinador(id)
+);
+
+CREATE TABLE utilitario(
+    id SERIAL PRIMARY KEY,
+    url VARCHAR(255) NOT NULL,
+    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
+    Nome VARCHAR(20) NOT NULL,
+    Descricao VARCHAR(200) NOT NULL,
+    Quantidade INTEGER 
+);
+
+CREATE TABLE seguravel(
+    id SERIAL PRIMARY KEY,
+    url VARCHAR(255) NOT NULL,
+    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
+    Nome VARCHAR(20) NOT NULL,
+    Descricao VARCHAR(200) NOT NULL,
+    Quantidade INTEGER
+);
+
+CREATE TABLE medicinal(
+    id SERIAL PRIMARY KEY,
+    url VARCHAR(255) NOT NULL,
+    id_Mochila INTEGER NOT NULL REFERENCES mochila(id),
+    Nome VARCHAR(20) NOT NULL,
+    Descricao VARCHAR(200) NOT NULL,
+    Quantidade INTEGER
 );
 
 CREATE TABLE ginasio(
@@ -137,7 +137,6 @@ CREATE TABLE pokemon(
     UNIQUE(id)
 );
 
-
 CREATE TABLE pokedex(
     id SERIAL PRIMARY KEY,
     id_pokemon INTEGER REFERENCES pokemon(id)
@@ -162,9 +161,11 @@ CREATE TABLE pokemon_ataque(
 ALTER TABLE pokemon ADD FOREIGN KEY(numero_pokedex) REFERENCES pokedex(id) ON DELETE CASCADE ON UPDATE CASCADE;
 
 CREATE OR REPLACE FUNCTION novotreinadorpocao() returns trigger as $$
+DECLARE
+    mochila_id INT;
 BEGIN
-    INSERT INTO mochila DEFAULT VALUES;
-    INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade)
+    INSERT INTO mochila (id_Treinador) VALUES (new.id) RETURNING id INTO mochila_id;
+    INSERT INTO utilitario (url,nome,mochila_id,descricao,quantidade)
     VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Potion',new.id_mochila,'Recupera 20 HP',1);
     return new;
 END;
@@ -192,6 +193,3 @@ CREATE OR REPLACE TRIGGER treinadorpokemon
 AFTER INSERT ON treinador
 FOR EACH ROW
 EXECUTE FUNCTION novotreinadorpokemon();
-
-
-
