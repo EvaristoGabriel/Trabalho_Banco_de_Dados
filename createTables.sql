@@ -23,7 +23,7 @@ CREATE TABLE insignia(
 CREATE TABLE habilidade(
     id SERIAL PRIMARY KEY,
     Nome VARCHAR(50) NOT NULL UNIQUE,
-    Descricao VARCHAR(500) NOT NULL
+    Descricao VARCHAR(1000) NOT NULL
 );
 
 CREATE TABLE nature(
@@ -136,6 +136,14 @@ CREATE TABLE pokemon(
     id_Nature INTEGER NOT NULL REFERENCES nature(id),
     UNIQUE(id)
 );
+
+SELECT e.id
+FROM Equipe e
+INNER JOIN Treinador t ON e.id_Treinador = t.id
+INNER JOIN Mochila m ON m.id_Treinador = t.id
+INNER JOIN Seguravel s ON m.id = s.id_Mochila
+GROUP BY e.id
+HAVING COUNT(s.id) >= 10;
 
 CREATE TABLE pokedex(
     id SERIAL PRIMARY KEY,
