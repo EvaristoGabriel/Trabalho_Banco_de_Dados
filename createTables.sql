@@ -137,14 +137,6 @@ CREATE TABLE pokemon(
     UNIQUE(id)
 );
 
-SELECT e.id
-FROM Equipe e
-INNER JOIN Treinador t ON e.id_Treinador = t.id
-INNER JOIN Mochila m ON m.id_Treinador = t.id
-INNER JOIN Seguravel s ON m.id = s.id_Mochila
-GROUP BY e.id
-HAVING COUNT(s.id) >= 10;
-
 CREATE TABLE pokedex(
     id SERIAL PRIMARY KEY,
     id_pokemon INTEGER REFERENCES pokemon(id)
@@ -168,13 +160,17 @@ CREATE TABLE pokemon_ataque(
 
 ALTER TABLE pokemon ADD FOREIGN KEY(numero_pokedex) REFERENCES pokedex(id) ON DELETE CASCADE ON UPDATE CASCADE;
 
+INSERT INTO treinador (url, nome, id_Cidade, id_Classe) VALUES ('http://www.serebii.net/pokearth/trainers/dp/69.png', 'TesteConstraint', 'Juiz de Fora', 'Comum');
+INSERT INTO insignia (nome) VALUES ('Insígnia Ice');
+INSERT INTO utilitario (url, Nome, Descricao, Quantidade) VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png', 'Potion', 'Recupera 20 HP', 1);
+
 CREATE OR REPLACE FUNCTION novotreinadorpocao() returns trigger as $$
 DECLARE
     mochila_id INT;
 BEGIN
     INSERT INTO mochila (id_Treinador) VALUES (new.id) RETURNING id INTO mochila_id;
-    INSERT INTO utilitario (url,nome,mochila_id,descricao,quantidade)
-    VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Potion',new.id_mochila,'Recupera 20 HP',1);
+    INSERT INTO utilitario (url,nome,id_mochila,descricao,quantidade)
+    VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/hyper-potion.png','Potion',mochila_id,'Recupera 20 HP',1);
     return new;
 END;
 $$ language plpgsql;
