@@ -160,10 +160,6 @@ CREATE TABLE pokemon_ataque(
 
 ALTER TABLE pokemon ADD FOREIGN KEY(numero_pokedex) REFERENCES pokedex(id) ON DELETE CASCADE ON UPDATE CASCADE;
 
-INSERT INTO treinador (url, nome, id_Cidade, id_Classe) VALUES ('http://www.serebii.net/pokearth/trainers/dp/69.png', 'TesteConstraint', 'Juiz de Fora', 'Comum');
-INSERT INTO insignia (nome) VALUES ('Insígnia Ice');
-INSERT INTO utilitario (url, Nome, Descricao, Quantidade) VALUES ('https://raw.githubusercontent.com/msikma/pokesprite/master/items-outline/medicine/max-elixir.png', 'Potion', 'Recupera 20 HP', 1);
-
 CREATE OR REPLACE FUNCTION novotreinadorpocao() returns trigger as $$
 DECLARE
     mochila_id INT;
@@ -184,10 +180,12 @@ EXECUTE FUNCTION novotreinadorpocao();
 CREATE OR REPLACE FUNCTION novotreinadorpokemon() RETURNS TRIGGER AS $$
 DECLARE
     equipe_id INT;
+    poke_id INT;
 BEGIN
     INSERT INTO equipe (id_Treinador) VALUES (NEW.id) RETURNING id INTO equipe_id;
     INSERT INTO pokemon (url, nome, apelido, numero_pokedex, ataque_fisico, ataque_special, defesa_fisico, defesa_special, speed, nivel, hp, experiencia, status, id_Habilidade, id_Equipe, id_Nature)
-                 VALUES ('https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif', 'Charmander', 'Charmander', 0004, 12, 9, 10, 8, 12, 1, 20, 0, 'None', 5, equipe_id, 1);
+                 VALUES ('https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif', 'Charmander', 'Charmander', 0004, 12, 9, 10, 8, 12, 1, 20, 0, 'None', 5, equipe_id, 1) RETURNING id INTO poke_id;
+    INSERT INTO pokemon_ataque (id_pokemon,id_ataque) VALUES (poke_id,683);
     RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
